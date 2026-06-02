@@ -1,0 +1,84 @@
+ProductID,ProductName,IssueType,negative_review_count,avg_sentiment,Severity_Index,AI_Suggested_Action
+19,Hockey Stick,Quality,13,-0.84297488744442284,10.960000000000001,Improve Quality 
+18,Volleyball,Pricing,10,-0.99933460950851438,9.9900000000000002,Improve Pricing 
+5,Soccer Ball,Pricing,10,-0.99949136972427366,9.9900000000000002,Improve Pricing 
+17,Surfboard,Pricing,9,-0.99945582946141565,9,Improve Pricing 
+13,Swim Goggles,Pricing,9,-0.99945582946141565,9,Improve Pricing 
+4,Dumbbells,Pricing,9,-0.99945683611763847,9,Improve Pricing 
+9,Baseball Glove,Pricing,9,-0.99939911233054268,8.9900000000000002,Improve Pricing 
+1,Running Shoes,Pricing,9,-0.99934038188722396,8.9900000000000002,Improve Pricing 
+5,Soccer Ball,Quality,11,-0.81446274844082922,8.9600000000000009,Improve Quality 
+4,Dumbbells,Quality,9,-0.99345472786161637,8.9399999999999995,Improve Quality 
+2,Fitness Tracker,Quality,12,-0.66746175289154053,8.0099999999999998,Improve Quality 
+7,Basketball,Delivery,8,-0.99905180931091309,7.9900000000000002,Improve Delivery 
+6,Tennis Racket,Delivery,8,-0.99932140856981277,7.9900000000000002,Improve Delivery 
+1,Running Shoes,Delivery,8,-0.99922148883342743,7.9900000000000002,Improve Delivery 
+3,Yoga Mat,Quality,12,-0.66318228344122565,7.96,Improve Quality 
+10,Golf Clubs,Pricing,7,-0.99950660126549862,7,Improve Pricing 
+20,Boxing Gloves,Pricing,7,-0.99935687439782284,7,Improve Pricing 
+8,Football Helmet,Delivery,7,-0.99856270211083531,6.9900000000000002,Improve Delivery 
+11,Ski Boots,Quality,9,-0.77564300431145561,6.9800000000000004,Improve Quality 
+1,Running Shoes,Quality,7,-0.98974594048091347,6.9299999999999997,Improve Quality 
+12,Ice Skates,Quality,10,-0.61641218662261965,6.1600000000000001,Improve Quality 
+6,Tennis Racket,Pricing,6,-0.99972011645634973,6,Improve Pricing 
+14,Cycling Helmet,Pricing,6,-0.99945582946141565,6,Improve Pricing 
+15,Climbing Rope,Pricing,6,-0.99945582946141565,6,Improve Pricing 
+16,Kayak,Quality,10,-0.60007061958312991,6,Improve Quality 
+4,Dumbbells,Delivery,6,-0.99862949053446437,5.9900000000000002,Improve Delivery 
+20,Boxing Gloves,Quality,8,-0.74763380736112595,5.9800000000000004,Improve Quality 
+3,Yoga Mat,Pricing,5,-0.99970008134841915,5,Improve Pricing 
+8,Football Helmet,Pricing,5,-0.99928265810012817,5,Improve Pricing 
+12,Ice Skates,Delivery,5,-0.9993293285369873,5,Improve Delivery 
+19,Hockey Stick,Pricing,5,-0.99938656091690059,5,Improve Pricing 
+17,Surfboard,Delivery,5,-0.99948920011520381,5,Improve Delivery 
+16,Kayak,Delivery,5,-0.99976068735122681,5,Improve Delivery 
+2,Fitness Tracker,Pricing,5,-0.99928265810012817,5,Improve Pricing 
+3,Yoga Mat,Delivery,5,-0.99878635406494143,4.9900000000000002,Improve Delivery 
+10,Golf Clubs,Quality,10,-0.41246324777603149,4.1200000000000001,Improve Quality 
+9,Baseball Glove,Quality,8,-0.50363489240407944,4.0300000000000002,Improve Quality 
+17,Surfboard,Quality,8,-0.501338891685009,4.0099999999999998,Improve Quality 
+7,Basketball,Quality,6,-0.66804490486780799,4.0099999999999998,Improve Quality 
+10,Golf Clubs,Delivery,4,-0.99908196926116943,4,Improve Delivery 
+5,Soccer Ball,Delivery,4,-0.99922148883342743,4,Improve Delivery 
+19,Hockey Stick,Delivery,4,-0.99888212978839874,4,Improve Delivery 
+15,Climbing Rope,Delivery,4,-0.99888212978839874,4,Improve Delivery 
+12,Ice Skates,Pricing,4,-0.99928265810012817,4,Improve Pricing 
+8,Football Helmet,Quality,8,-0.49913367629051208,3.9900000000000002,Improve Quality 
+13,Swim Goggles,Quality,6,-0.66206663846969604,3.9700000000000002,Improve Quality 
+25,Skating Helmet,Quality,4,-0.91294419765472412,3.6499999999999999,Improve Quality 
+2,Fitness Tracker,Delivery,3,-0.99930820862452185,3,Improve Delivery 
+18,Volleyball,Delivery,3,-0.99904175599416101,3,Improve Delivery 
+20,Boxing Gloves,Support,3,-0.99958115816116322,3,Improve Support 
+18,Volleyball,Support,3,-0.99972206354141224,3,Improve Support 
+7,Basketball,Pricing,3,-0.99945582946141565,3,Improve Pricing 
+9,Baseball Glove,Delivery,3,-0.99885572989781701,3,Improve Delivery 
+18,Volleyball,Quality,3,-0.99865516026814782,3,Improve Quality 
+17,Surfboard,Support,3,-0.99972206354141224,3,Improve Support 
+10,Golf Clubs,Support,3,-0.99972206354141224,3,Improve Support 
+14,Cycling Helmet,Delivery,3,-0.99858927726745605,3,Improve Delivery 
+14,Cycling Helmet,Quality,5,-0.59756267070770264,2.9900000000000002,Improve Quality 
+6,Tennis Racket,Quality,10,-0.2051573872566223,2.0499999999999998,Improve Quality 
+11,Ski Boots,Pricing,2,-0.99954694509506226,2,Improve Pricing 
+20,Boxing Gloves,Delivery,2,-0.99908196926116943,2,Improve Delivery 
+12,Ice Skates,Support,2,-0.99979251623153675,2,Improve Support 
+2,Fitness Tracker,Support,2,-0.99979251623153675,2,Improve Support 
+7,Basketball,Support,2,-0.99979251623153675,2,Improve Support 
+11,Ski Boots,Delivery,2,-0.99840325117111195,2,Improve Delivery 
+8,Football Helmet,Support,2,-0.99968683719634999,2,Improve Support 
+9,Baseball Glove,Support,2,-0.99979251623153675,2,Improve Support 
+16,Kayak,Pricing,2,-0.99928265810012817,2,Improve Pricing 
+11,Ski Boots,Support,2,-0.99968683719634999,2,Improve Support 
+22,Skipping Rope (Adjustable),Quality,2,-0.98866686224937439,1.98,Improve Quality 
+24,Swimming Kickboard,Quality,2,-0.98962840437889099,1.98,Improve Quality 
+23,Tennis Balls (Pack of 3),Quality,2,-0.97113385796546936,1.9399999999999999,Improve Quality 
+15,Climbing Rope,Quality,3,-0.33866063753763836,1.02,Improve Quality 
+1,Running Shoes,Support,1,-0.99979251623153675,1,Improve Support 
+4,Dumbbells,Support,1,-0.99979251623153675,1,Improve Support 
+5,Soccer Ball,Support,1,-0.99958115816116322,1,Improve Support 
+13,Swim Goggles,Delivery,1,-0.99976068735122681,1,Improve Delivery 
+13,Swim Goggles,Support,1,-0.99979251623153675,1,Improve Support 
+14,Cycling Helmet,Support,1,-0.99979251623153675,1,Improve Support 
+16,Kayak,Support,1,-0.99979251623153675,1,Improve Support 
+19,Hockey Stick,Support,1,-0.99979251623153675,1,Improve Support 
+22,Skipping Rope (Adjustable),Pricing,1,-0.99952936172485363,1,Improve Pricing 
+22,Skipping Rope (Adjustable),Support,1,-0.99201828241348278,0.98999999999999999,Improve Support 

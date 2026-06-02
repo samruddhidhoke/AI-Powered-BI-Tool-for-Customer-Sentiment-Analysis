@@ -1,0 +1,36 @@
+=========== TRAIN TEST SPLIT SUMMARY ===========
+
+Total Dataset Size: 383
+
+Duplicate Rows: 0
+
+Overlap Count: 0
+
+Original Class Distribution:
+label
+quality      84
+support      83
+delivery     73
+pricing      72
+packaging    71
+Name: count, dtype: int64
+
+Train Size: 306
+Train Class Distribution:
+label
+quality      67
+support      66
+delivery     58
+pricing      58
+packaging    57
+Name: count, dtype: int64
+
+Test Size: 77
+Test Class Distribution:
+label
+quality      17
+support      17
+delivery     15
+packaging    14
+pricing      14
+Name: count, dtype: int64

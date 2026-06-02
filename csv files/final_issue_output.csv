@@ -1,0 +1,1401 @@
+ReviewID,CustomerID,ProductID,ProductName,ReviewDate,Rating,ReviewText,BERT_SentimentScore,SentimentBucket,IssueType,IssueConfidence
+1,77,18,Volleyball,2023-12-23,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+2,80,19,Hockey Stick,2024-12-25,5,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+3,50,13,Swim Goggles,2025-01-26,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+4,78,15,Climbing Rope,2025-04-21,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+5,64,2,Fitness Tracker,2023-07-16,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+6,81,1,Running Shoes,2025-12-21,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+7,16,1,Running Shoes,2024-01-29,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+8,55,8,Football Helmet,2024-08-15,5,The material feels standard and usable.,0.9990397095680236,Positive,quality,0.3445
+9,3,13,Swim Goggles,2023-09-01,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+10,78,6,Tennis Racket,2024-06-17,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+11,54,9,Baseball Glove,2023-07-17,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+12,77,2,Fitness Tracker,2025-01-13,2,Product  did    not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+13,93,6,Tennis Racket,2024-08-20,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+14,23,2,Fitness Tracker,2025-06-16,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+15,29,11,Ski Boots,2023-01-27,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+16,95,17,Surfboard,2023-01-06,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+17,88,4,Dumbbells,2025-10-29,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+18,17,16,Kayak,2024-11-23,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+19,34,13,Swim Goggles,2024-01-04,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+20,34,6,Tennis Racket,2023-04-29,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+21,22,15,Climbing Rope,2023-04-08,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+22,52,3,Yoga Mat,2025-10-30,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+23,69,18,Volleyball,2023-07-02,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+24,100,4,Dumbbells,2025-07-18,3,"I  love  this    product,  will  buy  again!",0.9998741149902344,Mixed Positive,pricing,0.2354
+25,55,20,Boxing Gloves,2024-12-19,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+26,76,11,Ski Boots,2024-08-21,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+27,56,6,Tennis Racket,2025-11-24,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+28,76,8,Football Helmet,2025-05-27,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+29,38,13,Swim Goggles,2023-05-31,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+30,84,6,Tennis Racket,2024-03-18,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+31,93,4,Dumbbells,2025-08-25,3,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+32,91,1,Running Shoes,2023-07-15,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+33,30,2,Fitness Tracker,2023-02-21,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+34,81,15,Climbing Rope,2024-03-30,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+35,27,12,Ice Skates,2024-03-13,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+36,96,9,Baseball Glove,2025-12-05,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+37,38,3,Yoga Mat,2023-09-11,3,"Average  experience,  nothing    special.",-0.9992826581001282,Mixed Negative,support,0.2637
+38,45,17,Surfboard,2024-05-07,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+39,54,1,Running Shoes,2023-10-02,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+40,33,2,Fitness Tracker,2025-01-03,5,The product arrived within the expected timeframe.,0.6194601058959961,Positive,quality,0.2405
+41,93,17,Surfboard,2025-05-15,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+42,72,15,Climbing Rope,2023-03-21,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+43,84,15,Climbing Rope,2025-02-02,4,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+44,44,17,Surfboard,2023-04-20,5,"Excellent  product,    highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+45,11,16,Kayak,2023-03-23,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+46,27,5,Soccer Ball,2025-05-07,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+47,19,13,Swim Goggles,2024-06-01,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+48,70,17,Surfboard,2023-10-08,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+49,3,7,Basketball,2025-06-09,3,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+50,62,4,Dumbbells,2023-01-07,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+51,49,17,Surfboard,2023-04-14,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+52,75,11,Ski Boots,2024-04-07,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+53,73,18,Volleyball,2025-12-28,4,Five  stars  for    the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+54,33,8,Football Helmet,2023-05-03,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+55,57,9,Baseball Glove,2025-11-03,3,Customer  support  was    very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+56,15,10,Golf Clubs,2025-12-11,3,The product reached without any damage.,0.9913528561592102,Mixed Positive,packaging,0.2376
+57,41,10,Golf Clubs,2024-04-06,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+58,78,7,Basketball,2024-07-16,2,"The  product    is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+59,98,9,Baseball Glove,2024-09-01,4,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+60,11,16,Kayak,2023-12-27,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+61,50,19,Hockey Stick,2023-02-24,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+62,35,17,Surfboard,2023-03-18,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+63,93,2,Fitness Tracker,2025-01-05,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+64,86,11,Ski Boots,2025-10-30,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+65,34,3,Yoga Mat,2024-06-15,1,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+66,94,16,Kayak,2023-06-17,4,"I  love  this  product,  will  buy    again!",0.9998741149902344,Positive,pricing,0.2354
+67,67,13,Swim Goggles,2025-04-12,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+68,38,7,Basketball,2023-03-23,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+69,77,12,Ice Skates,2025-08-03,3,Five  stars  for  the  quick  delivery.,0.9993364214897156,Mixed Positive,support,0.2803
+70,93,5,Soccer Ball,2024-01-30,4,Shipping  was  fast    and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+71,24,11,Ski Boots,2025-07-28,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+72,29,4,Dumbbells,2023-05-29,5,The    build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+73,68,19,Hockey Stick,2025-05-05,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+74,59,9,Baseball Glove,2023-05-16,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+75,22,3,Yoga Mat,2024-01-13,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+76,9,10,Golf Clubs,2025-08-31,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+77,74,5,Soccer Ball,2023-03-15,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+78,6,10,Golf Clubs,2024-12-09,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+79,84,15,Climbing Rope,2024-05-28,2,The  product  arrived    late.,-0.998403251171112,Negative,delivery,0.2442
+80,98,16,Kayak,2025-05-24,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+81,3,19,Hockey Stick,2024-09-04,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+82,78,13,Swim Goggles,2023-05-02,4,Shipping    was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+83,32,11,Ski Boots,2025-05-26,4,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+84,40,20,Boxing Gloves,2023-07-17,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+85,17,6,Tennis Racket,2025-10-25,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+86,78,3,Yoga Mat,2025-10-06,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+87,89,17,Surfboard,2023-05-26,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+88,93,19,Hockey Stick,2025-08-26,4,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+89,60,3,Yoga Mat,2024-07-08,3,The  quality  is  top-notch.,0.9998470544815063,Mixed Positive,quality,0.3895
+90,47,17,Surfboard,2025-11-12,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+91,4,16,Kayak,2025-09-27,3,"Great  purchase,  very  satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+92,2,16,Kayak,2023-11-21,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+93,60,13,Swim Goggles,2024-09-05,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+94,2,16,Kayak,2025-03-14,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+95,16,16,Kayak,2024-04-07,4,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+96,19,13,Swim Goggles,2023-09-02,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+97,64,6,Tennis Racket,2024-01-19,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+98,96,3,Yoga Mat,2025-11-20,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+99,79,16,Kayak,2025-01-29,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+100,9,2,Fitness Tracker,2025-06-20,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+101,61,18,Volleyball,2024-09-11,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+102,4,2,Fitness Tracker,2025-08-22,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+103,82,14,Cycling Helmet,2024-11-17,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+104,96,5,Soccer Ball,2023-01-06,4,"I  love    this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+105,32,12,Ice Skates,2024-08-27,2,The  product    arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+106,94,17,Surfboard,2024-02-25,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+107,26,10,Golf Clubs,2025-02-17,5,Five  stars  for    the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+108,80,17,Surfboard,2023-12-22,5,Five  stars  for  the    quick  delivery.,0.9993364214897156,Positive,support,0.2803
+109,38,10,Golf Clubs,2023-07-25,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+110,54,12,Ice Skates,2024-08-02,4,Customer    support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+111,43,7,Basketball,2023-11-05,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+112,87,3,Yoga Mat,2023-05-26,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+113,27,9,Baseball Glove,2024-03-31,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+114,52,19,Hockey Stick,2025-05-04,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+115,82,9,Baseball Glove,2023-09-28,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+116,70,18,Volleyball,2023-07-23,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+117,20,14,Cycling Helmet,2025-04-19,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+118,59,6,Tennis Racket,2024-05-01,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+119,34,5,Soccer Ball,2025-09-06,4,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+120,3,20,Boxing Gloves,2024-08-18,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+121,91,1,Running Shoes,2025-11-02,2,"Average quality, delivery was slightly delayed.",-0.998961329460144,Negative,support,0.2442
+122,83,14,Cycling Helmet,2024-09-27,2,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+123,93,1,Running Shoes,2025-09-22,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+124,36,16,Kayak,2023-07-17,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+125,55,11,Ski Boots,2025-12-20,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+126,32,10,Golf Clubs,2024-08-12,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+127,47,8,Football Helmet,2025-03-25,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+128,71,20,Boxing Gloves,2023-12-13,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+129,46,13,Swim Goggles,2025-02-14,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+130,88,3,Yoga Mat,2025-09-22,5,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+131,42,5,Soccer Ball,2023-06-16,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+132,21,7,Basketball,2025-11-13,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+133,40,4,Dumbbells,2025-05-24,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+134,74,4,Dumbbells,2024-03-27,3,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+135,48,14,Cycling Helmet,2023-06-08,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+136,17,3,Yoga Mat,2025-03-27,5,Amazing  value  for    the  price.,0.9998892545700072,Positive,pricing,0.3689
+137,88,6,Tennis Racket,2023-03-02,4,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Positive,quality,0.3168
+138,28,15,Climbing Rope,2023-01-18,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+139,36,16,Kayak,2023-04-20,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+140,53,18,Volleyball,2023-12-03,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+141,98,9,Baseball Glove,2024-10-15,5,Amazing  value  for  the    price.,0.9998892545700072,Positive,pricing,0.3689
+142,15,7,Basketball,2023-08-04,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+143,3,12,Ice Skates,2023-04-12,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+144,27,15,Climbing Rope,2025-08-16,4,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+145,27,10,Golf Clubs,2024-03-05,3,"The    product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+146,5,13,Swim Goggles,2025-01-09,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+147,100,20,Boxing Gloves,2025-01-25,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+148,17,18,Volleyball,2024-11-05,1,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+149,50,3,Yoga Mat,2023-12-20,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+150,4,15,Climbing Rope,2024-06-18,5,"I  love  this  product,  will  buy    again!",0.9998741149902344,Positive,pricing,0.2354
+151,21,19,Hockey Stick,2023-10-30,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+152,32,16,Kayak,2025-12-15,3,"Good  quality,  but    could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+153,95,11,Ski Boots,2023-11-06,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+154,3,12,Ice Skates,2023-12-19,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+155,89,3,Yoga Mat,2025-12-10,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+156,5,7,Basketball,2025-01-26,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+157,10,17,Surfboard,2025-10-14,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+158,37,2,Fitness Tracker,2024-04-16,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+159,23,12,Ice Skates,2023-09-01,5,"I  love  this  product,    will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+160,71,9,Baseball Glove,2024-01-02,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+161,9,18,Volleyball,2025-08-05,2,The  product  arrived    late.,-0.998403251171112,Negative,delivery,0.2442
+162,64,20,Boxing Gloves,2023-07-25,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+163,89,7,Basketball,2023-05-27,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+164,25,19,Hockey Stick,2024-03-16,2,Product  did  not    meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+165,97,3,Yoga Mat,2025-06-03,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+166,87,3,Yoga Mat,2023-11-01,3,"Good    quality,  but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+167,28,16,Kayak,2023-08-02,2,Product  did  not  meet    my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+168,72,2,Fitness Tracker,2025-12-13,3,Customer  support  was  very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+169,26,8,Football Helmet,2025-09-28,5,Five  stars  for  the  quick    delivery.,0.9993364214897156,Positive,support,0.2803
+170,53,13,Swim Goggles,2024-06-23,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+171,2,16,Kayak,2024-02-16,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+172,79,2,Fitness Tracker,2024-11-23,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+173,15,16,Kayak,2025-05-30,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+174,91,8,Football Helmet,2024-06-23,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+175,3,6,Tennis Racket,2024-11-02,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+176,21,11,Ski Boots,2023-11-23,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+177,93,19,Hockey Stick,2025-07-03,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+178,17,20,Boxing Gloves,2025-05-25,4,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+179,46,20,Boxing Gloves,2025-11-26,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+180,77,5,Soccer Ball,2023-03-08,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+181,4,3,Yoga Mat,2024-08-09,4,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+182,21,11,Ski Boots,2024-03-08,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+183,13,5,Soccer Ball,2025-06-08,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+184,59,5,Soccer Ball,2024-12-29,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+185,8,6,Tennis Racket,2023-11-13,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+186,22,13,Swim Goggles,2023-02-17,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+187,58,18,Volleyball,2025-05-01,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+188,70,5,Soccer Ball,2025-09-19,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+189,83,7,Basketball,2025-03-13,2,The  product    arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+190,83,3,Yoga Mat,2023-08-10,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+191,68,3,Yoga Mat,2024-09-05,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+192,42,17,Surfboard,2023-08-04,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+193,84,20,Boxing Gloves,2024-06-21,3,"The  product  is  okay,  but  the  instructions  were    unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+194,7,7,Basketball,2025-05-19,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+195,75,5,Soccer Ball,2023-10-25,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+196,91,2,Fitness Tracker,2023-10-29,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+197,51,15,Climbing Rope,2024-11-27,4,"I  love  this  product,    will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+198,57,8,Football Helmet,2023-08-27,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+199,6,13,Swim Goggles,2024-08-20,5,The    quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+200,30,17,Surfboard,2025-01-09,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+201,59,6,Tennis Racket,2023-05-23,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+202,33,9,Baseball Glove,2023-09-06,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+203,66,18,Volleyball,2023-11-22,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+204,95,14,Cycling Helmet,2024-11-29,4,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+205,88,12,Ice Skates,2023-04-06,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+206,72,14,Cycling Helmet,2023-08-22,4,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+207,95,18,Volleyball,2025-06-07,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+208,94,8,Football Helmet,2023-03-25,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+209,70,8,Football Helmet,2025-11-05,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+210,28,1,Running Shoes,2023-12-10,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+211,84,12,Ice Skates,2025-03-07,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+212,87,10,Golf Clubs,2023-01-03,1,"Terrible  customer  service,  would  not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+213,7,13,Swim Goggles,2024-04-09,5,Shipping  was  fast  and    the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+214,53,18,Volleyball,2025-04-13,3,Five  stars  for  the  quick  delivery.,0.9993364214897156,Mixed Positive,support,0.2803
+215,55,10,Golf Clubs,2024-01-07,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+216,49,7,Basketball,2023-11-14,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+217,62,11,Ski Boots,2023-08-19,5,Amazing  value    for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+218,35,8,Football Helmet,2024-09-14,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+219,90,9,Baseball Glove,2023-02-18,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+220,78,9,Baseball Glove,2025-08-12,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+221,26,2,Fitness Tracker,2024-10-21,4,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+222,54,14,Cycling Helmet,2024-02-28,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+223,37,16,Kayak,2023-07-31,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+224,68,15,Climbing Rope,2023-03-27,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+225,80,1,Running Shoes,2025-09-08,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+226,60,9,Baseball Glove,2023-08-23,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+227,74,11,Ski Boots,2024-08-10,4,"Good    quality,  but  could  be  cheaper.",0.955940008163452,Positive,quality,0.3168
+228,20,19,Hockey Stick,2025-10-23,2,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+229,69,12,Ice Skates,2023-02-07,4,The    quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+230,54,11,Ski Boots,2023-10-19,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+231,15,16,Kayak,2025-04-15,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+232,17,3,Yoga Mat,2025-10-11,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+233,81,4,Dumbbells,2024-11-14,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+234,80,9,Baseball Glove,2023-03-06,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+235,54,3,Yoga Mat,2024-03-18,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+236,55,16,Kayak,2025-03-03,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+237,44,2,Fitness Tracker,2025-09-29,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+238,47,9,Baseball Glove,2023-04-18,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+239,45,9,Baseball Glove,2024-01-28,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+240,20,16,Kayak,2024-11-09,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+241,61,15,Climbing Rope,2024-04-22,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+242,20,20,Boxing Gloves,2025-06-07,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+243,24,11,Ski Boots,2023-02-17,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+244,36,4,Dumbbells,2023-08-25,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+245,50,3,Yoga Mat,2023-03-23,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+246,71,12,Ice Skates,2023-07-23,4,The    quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+247,28,6,Tennis Racket,2025-11-24,5,"Excellent  product,  highly    recommend!",0.9998780488967896,Positive,quality,0.2978
+248,81,6,Tennis Racket,2023-07-15,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+249,75,2,Fitness Tracker,2023-01-04,1,"Not    satisfied,  the  product  broke  after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+250,22,11,Ski Boots,2023-09-21,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+251,16,2,Fitness Tracker,2024-02-01,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+252,6,6,Tennis Racket,2025-03-18,5,The  build  quality  is    impressive.,0.999881386756897,Positive,quality,0.4293
+253,75,15,Climbing Rope,2024-08-03,3,"Great  purchase,  very  satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+254,30,19,Hockey Stick,2025-12-31,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+255,13,16,Kayak,2024-01-23,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+256,91,3,Yoga Mat,2024-02-11,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+257,84,13,Swim Goggles,2023-10-03,3,"Average  experience,  nothing    special.",-0.9992826581001282,Mixed Negative,support,0.2637
+258,34,7,Basketball,2025-05-13,4,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+259,75,2,Fitness Tracker,2023-08-24,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+260,44,18,Volleyball,2024-03-07,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+261,29,12,Ice Skates,2024-10-15,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+262,45,7,Basketball,2024-07-07,5,Five  stars  for    the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+263,47,8,Football Helmet,2024-10-21,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+264,96,18,Volleyball,2025-08-19,4,Shipping  was  fast  and  the    item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+265,22,19,Hockey Stick,2024-05-14,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+266,62,5,Soccer Ball,2025-02-22,5,"Excellent  product,    highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+267,55,19,Hockey Stick,2023-12-01,3,"The  product  is    okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+268,98,17,Surfboard,2023-10-28,5,The  build  quality    is  impressive.,0.999881386756897,Positive,quality,0.4293
+269,75,4,Dumbbells,2023-11-18,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+270,46,6,Tennis Racket,2023-09-25,1,The  color  was  different  from  what  was  shown.,0.982874631881714,Mixed Negative,support,0.226
+271,21,17,Surfboard,2025-08-08,5,The    build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+272,39,17,Surfboard,2023-03-26,5,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+273,10,2,Fitness Tracker,2024-10-09,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+274,93,11,Ski Boots,2023-04-07,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+275,45,12,Ice Skates,2023-04-03,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+276,86,1,Running Shoes,2025-01-29,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+277,22,6,Tennis Racket,2025-03-21,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+278,80,20,Boxing Gloves,2023-03-01,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+279,86,5,Soccer Ball,2023-07-21,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+280,68,19,Hockey Stick,2023-11-09,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+281,71,5,Soccer Ball,2025-11-19,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+282,59,5,Soccer Ball,2023-02-17,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+283,87,13,Swim Goggles,2023-02-14,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+284,89,13,Swim Goggles,2023-09-01,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+285,29,3,Yoga Mat,2023-08-25,4,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Positive,quality,0.3168
+286,53,16,Kayak,2023-05-04,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+287,75,6,Tennis Racket,2025-02-14,5,"I  love  this  product,  will    buy  again!",0.9998741149902344,Positive,pricing,0.2354
+288,68,17,Surfboard,2024-06-21,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+289,87,15,Climbing Rope,2023-10-04,5,Customer  support  was    very  helpful.,0.9991816878318788,Positive,support,0.3455
+290,20,14,Cycling Helmet,2024-09-23,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+291,17,7,Basketball,2025-12-06,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+292,15,7,Basketball,2025-10-19,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+293,25,13,Swim Goggles,2023-02-14,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+294,63,13,Swim Goggles,2023-11-09,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+295,61,6,Tennis Racket,2024-10-13,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+296,85,18,Volleyball,2023-12-13,4,The    quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+297,92,16,Kayak,2023-08-06,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+298,41,15,Climbing Rope,2025-06-13,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+299,93,13,Swim Goggles,2024-02-01,1,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+300,22,18,Volleyball,2023-05-09,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+301,6,7,Basketball,2023-05-30,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+302,64,19,Hockey Stick,2024-10-08,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+303,20,10,Golf Clubs,2024-04-25,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+304,66,14,Cycling Helmet,2023-02-01,3,"Average    experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+305,87,7,Basketball,2023-08-25,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+306,52,8,Football Helmet,2025-07-19,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+307,63,16,Kayak,2025-01-08,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+308,90,14,Cycling Helmet,2023-04-02,5,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+309,70,11,Ski Boots,2023-02-02,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+310,40,1,Running Shoes,2024-11-30,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+311,52,11,Ski Boots,2023-11-14,4,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+312,90,3,Yoga Mat,2023-11-05,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+313,13,3,Yoga Mat,2024-01-14,4,"I    love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+314,22,17,Surfboard,2025-10-06,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+315,32,7,Basketball,2025-06-13,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+316,48,4,Dumbbells,2025-08-15,5,Five  stars  for  the  quick    delivery.,0.9993364214897156,Positive,support,0.2803
+317,15,6,Tennis Racket,2023-08-04,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+318,97,4,Dumbbells,2023-12-15,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+319,86,6,Tennis Racket,2024-12-11,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+320,79,17,Surfboard,2023-02-24,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+321,58,12,Ice Skates,2024-04-17,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+322,76,13,Swim Goggles,2024-12-01,4,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+323,47,4,Dumbbells,2023-04-24,4,Shipping  was    fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+324,89,5,Soccer Ball,2024-07-08,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+325,78,6,Tennis Racket,2023-04-17,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+326,17,14,Cycling Helmet,2024-06-15,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+327,95,8,Football Helmet,2023-08-25,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+328,100,13,Swim Goggles,2024-02-20,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+329,6,9,Baseball Glove,2024-12-07,3,The  quality  is  top-notch.,0.9998470544815063,Mixed Positive,quality,0.3895
+330,22,14,Cycling Helmet,2023-03-18,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+331,68,4,Dumbbells,2023-08-17,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+332,2,10,Golf Clubs,2024-11-06,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+333,87,5,Soccer Ball,2024-06-02,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+334,70,9,Baseball Glove,2025-04-14,5,Five  stars  for  the  quick    delivery.,0.9993364214897156,Positive,support,0.2803
+335,75,14,Cycling Helmet,2024-03-12,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+336,8,8,Football Helmet,2024-02-07,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+337,32,19,Hockey Stick,2024-05-22,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+338,98,4,Dumbbells,2023-01-22,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+339,38,2,Fitness Tracker,2025-01-11,5,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+340,95,17,Surfboard,2025-09-16,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+341,62,3,Yoga Mat,2024-11-04,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+342,19,4,Dumbbells,2025-06-15,4,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+343,84,4,Dumbbells,2025-04-13,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+344,21,10,Golf Clubs,2025-11-02,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+345,48,4,Dumbbells,2024-07-24,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+346,84,15,Climbing Rope,2025-06-27,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+347,75,16,Kayak,2025-08-19,1,Disappointed    with  the  performance.,-0.9997925162315368,Negative,support,0.248
+348,52,13,Swim Goggles,2024-03-05,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+349,26,11,Ski Boots,2024-11-19,3,"I  love  this  product,  will  buy  again!",0.9998741149902344,Mixed Positive,pricing,0.2354
+350,57,6,Tennis Racket,2025-08-22,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+351,55,5,Soccer Ball,2023-05-02,3,"The  product  is  okay,  but    the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+352,43,11,Ski Boots,2025-12-22,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+353,36,15,Climbing Rope,2025-09-08,5,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+354,50,18,Volleyball,2024-01-03,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+355,59,9,Baseball Glove,2024-03-04,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+356,86,14,Cycling Helmet,2023-11-23,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+357,1,3,Yoga Mat,2024-04-01,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+358,13,15,Climbing Rope,2023-11-20,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+359,79,15,Climbing Rope,2024-05-04,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+360,33,15,Climbing Rope,2025-09-09,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+361,71,7,Basketball,2024-02-12,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+362,33,11,Ski Boots,2024-02-11,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+363,17,15,Climbing Rope,2025-04-15,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+364,46,8,Football Helmet,2024-04-26,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+365,90,20,Boxing Gloves,2025-10-24,3,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+366,46,7,Basketball,2023-11-14,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+367,96,1,Running Shoes,2024-07-02,3,Not  worth  the    money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+368,34,8,Football Helmet,2025-05-11,1,"Not  satisfied,  the  product  broke  after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+369,48,4,Dumbbells,2024-12-19,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+370,73,6,Tennis Racket,2023-04-13,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+371,29,1,Running Shoes,2024-01-20,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+372,91,6,Tennis Racket,2023-05-10,4,"I  love  this  product,  will    buy  again!",0.9998741149902344,Positive,pricing,0.2354
+373,92,14,Cycling Helmet,2025-07-12,1,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+374,89,12,Ice Skates,2023-02-08,1,The  product    stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+375,73,4,Dumbbells,2024-12-16,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+376,38,6,Tennis Racket,2023-07-03,3,"Good  quality,    but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+377,77,4,Dumbbells,2023-11-29,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+378,64,9,Baseball Glove,2024-03-20,2,The  product  arrived    late.,-0.998403251171112,Negative,delivery,0.2442
+379,62,4,Dumbbells,2023-01-27,5,The    quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+380,52,4,Dumbbells,2024-02-23,4,"I  love    this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+381,45,4,Dumbbells,2024-01-24,3,"Good  quality,  but    could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+382,38,7,Basketball,2023-09-03,4,"Good  quality,    but  could  be  cheaper.",0.955940008163452,Positive,quality,0.3168
+383,54,13,Swim Goggles,2024-09-05,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+384,20,3,Yoga Mat,2025-06-04,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+385,81,5,Soccer Ball,2023-06-09,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+386,86,5,Soccer Ball,2024-04-09,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+387,42,14,Cycling Helmet,2025-03-29,5,Shipping  was  fast  and  the    item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+388,99,1,Running Shoes,2025-12-10,1,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+389,14,2,Fitness Tracker,2024-09-14,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+390,30,10,Golf Clubs,2023-05-22,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+391,98,20,Boxing Gloves,2024-01-05,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+392,93,11,Ski Boots,2023-06-29,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+393,6,20,Boxing Gloves,2024-04-18,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+394,7,4,Dumbbells,2024-10-19,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+395,35,9,Baseball Glove,2025-04-12,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+396,75,6,Tennis Racket,2025-09-12,3,"Good    quality,  but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+397,11,14,Cycling Helmet,2024-04-23,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+398,17,7,Basketball,2023-09-02,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+399,68,1,Running Shoes,2024-07-21,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+400,42,10,Golf Clubs,2023-06-30,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+401,93,18,Volleyball,2024-04-13,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+402,68,12,Ice Skates,2025-12-16,4,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+403,53,14,Cycling Helmet,2023-06-18,3,"Good  quality,  but    could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+404,90,7,Basketball,2025-06-04,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+405,43,4,Dumbbells,2025-09-10,5,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+406,11,9,Baseball Glove,2025-12-15,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+407,79,11,Ski Boots,2023-01-12,2,Disappointed  with  the    performance.,-0.9997925162315368,Negative,support,0.248
+408,17,4,Dumbbells,2023-12-12,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+409,59,19,Hockey Stick,2023-02-22,5,"I  love  this  product,  will  buy    again!",0.9998741149902344,Positive,pricing,0.2354
+410,83,1,Running Shoes,2023-01-11,1,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+411,32,15,Climbing Rope,2023-03-05,3,"The  product  is  okay,  but  the    instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+412,83,7,Basketball,2024-05-10,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+413,60,12,Ice Skates,2023-08-24,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+414,59,14,Cycling Helmet,2025-07-31,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+415,97,8,Football Helmet,2025-06-04,2,Disappointed  with  the    performance.,-0.9997925162315368,Negative,support,0.248
+416,15,17,Surfboard,2023-04-19,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+417,9,16,Kayak,2024-11-28,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+418,94,2,Fitness Tracker,2025-03-02,1,"Not  satisfied,  the  product  broke  after  a    week.",-0.9994804263114928,Negative,delivery,0.2272
+419,68,6,Tennis Racket,2025-09-01,1,The  color  was  different  from  what  was  shown.,0.982874631881714,Mixed Negative,support,0.226
+420,18,11,Ski Boots,2023-06-10,5,"I  love  this    product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+421,75,13,Swim Goggles,2025-08-18,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+422,81,17,Surfboard,2025-09-30,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+423,76,18,Volleyball,2023-08-01,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+424,53,11,Ski Boots,2024-03-21,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+425,89,6,Tennis Racket,2025-03-04,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+426,74,17,Surfboard,2024-04-07,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+427,81,11,Ski Boots,2025-08-20,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+428,58,9,Baseball Glove,2025-01-17,5,The  build    quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+429,71,2,Fitness Tracker,2023-06-08,4,Customer    support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+430,99,9,Baseball Glove,2025-08-03,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+431,94,11,Ski Boots,2023-02-10,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+432,31,18,Volleyball,2025-02-14,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+433,72,2,Fitness Tracker,2025-06-11,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+434,7,18,Volleyball,2023-02-25,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+435,65,1,Running Shoes,2023-02-28,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+436,11,1,Running Shoes,2024-01-03,4,Shipping  was  fast    and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+437,73,4,Dumbbells,2023-06-24,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+438,72,20,Boxing Gloves,2023-09-13,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+439,67,11,Ski Boots,2025-11-11,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+440,93,7,Basketball,2023-07-22,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+441,12,6,Tennis Racket,2023-09-03,1,Product  did    not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+442,28,8,Football Helmet,2025-04-06,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+443,37,13,Swim Goggles,2024-01-19,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+444,22,16,Kayak,2023-10-20,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+445,25,14,Cycling Helmet,2023-05-27,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+446,84,14,Cycling Helmet,2025-06-10,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+447,38,2,Fitness Tracker,2024-08-19,4,Shipping    was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+448,75,12,Ice Skates,2025-12-25,4,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+449,43,14,Cycling Helmet,2024-03-10,5,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+450,92,4,Dumbbells,2024-08-04,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+451,68,11,Ski Boots,2023-04-18,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+452,42,19,Hockey Stick,2024-08-28,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+453,100,2,Fitness Tracker,2023-04-23,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+454,27,9,Baseball Glove,2025-09-17,4,Customer  support    was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+455,79,20,Boxing Gloves,2024-07-30,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+456,2,1,Running Shoes,2024-01-09,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+457,29,1,Running Shoes,2024-12-12,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+458,42,20,Boxing Gloves,2025-07-05,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+459,90,17,Surfboard,2023-06-16,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+460,92,16,Kayak,2025-08-09,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+461,66,5,Soccer Ball,2025-10-11,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+462,85,14,Cycling Helmet,2023-02-02,5,The    build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+463,5,2,Fitness Tracker,2025-11-02,3,"Great  purchase,  very    satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+464,73,11,Ski Boots,2024-05-28,4,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+465,43,12,Ice Skates,2025-12-14,1,Disappointed    with  the  performance.,-0.9997925162315368,Negative,support,0.248
+466,49,16,Kayak,2023-02-16,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+467,29,16,Kayak,2023-07-16,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+468,12,12,Ice Skates,2024-01-09,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+469,54,13,Swim Goggles,2023-10-06,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+470,46,1,Running Shoes,2025-10-24,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+471,88,4,Dumbbells,2024-04-26,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+472,69,8,Football Helmet,2024-12-05,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+473,7,19,Hockey Stick,2024-08-03,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+474,47,20,Boxing Gloves,2025-05-31,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+475,74,20,Boxing Gloves,2023-04-18,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+476,54,10,Golf Clubs,2023-12-12,4,Customer  support    was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+477,91,10,Golf Clubs,2025-04-25,4,The    quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+478,79,6,Tennis Racket,2023-07-23,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+479,7,13,Swim Goggles,2024-12-28,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+480,90,9,Baseball Glove,2023-07-22,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+481,21,2,Fitness Tracker,2024-12-02,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+482,49,10,Golf Clubs,2025-07-11,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+483,28,20,Boxing Gloves,2024-06-29,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+484,36,10,Golf Clubs,2023-08-22,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+485,66,18,Volleyball,2025-06-10,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+486,44,3,Yoga Mat,2024-01-20,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+487,78,3,Yoga Mat,2025-05-01,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+488,89,12,Ice Skates,2025-02-24,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+489,15,8,Football Helmet,2023-11-09,4,Five  stars    for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+490,46,11,Ski Boots,2025-07-05,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+491,59,6,Tennis Racket,2023-06-22,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+492,94,20,Boxing Gloves,2025-03-19,2,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+493,26,2,Fitness Tracker,2024-07-16,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+494,2,13,Swim Goggles,2025-05-25,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+495,56,7,Basketball,2023-04-26,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+496,87,1,Running Shoes,2024-01-29,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+497,90,6,Tennis Racket,2024-02-21,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+498,81,17,Surfboard,2025-01-17,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+499,72,6,Tennis Racket,2024-08-26,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+500,57,9,Baseball Glove,2025-12-20,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+501,39,12,Ice Skates,2023-12-01,4,Customer  support  was    very  helpful.,0.9991816878318788,Positive,support,0.3455
+502,5,1,Running Shoes,2025-11-10,2,Product    did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+503,5,16,Kayak,2024-07-03,2,Product  did  not  meet    my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+504,35,8,Football Helmet,2024-01-18,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+505,82,2,Fitness Tracker,2024-07-11,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+506,80,8,Football Helmet,2025-10-19,2,"Average  experience,    nothing  special.",-0.9992826581001282,Negative,support,0.2637
+507,66,3,Yoga Mat,2024-12-10,3,Customer  support    was  very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+508,64,14,Cycling Helmet,2025-01-19,3,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+509,5,11,Ski Boots,2024-05-25,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+510,20,6,Tennis Racket,2024-11-05,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+511,55,15,Climbing Rope,2025-04-01,1,Not    worth  the  money.,-0.9998021721839904,Negative,pricing,0.2816
+512,11,1,Running Shoes,2025-01-15,3,The product reached without any damage.,0.9913528561592102,Mixed Positive,packaging,0.2376
+513,21,3,Yoga Mat,2025-11-09,5,Amazing  value    for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+514,72,15,Climbing Rope,2023-06-18,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+515,89,3,Yoga Mat,2024-12-06,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+516,46,18,Volleyball,2025-01-03,4,The  quality    is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+517,29,4,Dumbbells,2024-03-30,5,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+518,17,12,Ice Skates,2024-04-27,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+519,58,4,Dumbbells,2023-03-06,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+520,63,1,Running Shoes,2024-08-24,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+521,47,5,Soccer Ball,2024-03-31,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+522,8,10,Golf Clubs,2023-08-04,1,Product    did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+523,8,12,Ice Skates,2023-12-07,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+524,27,4,Dumbbells,2025-09-01,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+525,1,1,Running Shoes,2023-11-23,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+526,74,3,Yoga Mat,2025-05-20,3,"Good    quality,  but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+527,27,14,Cycling Helmet,2024-07-03,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+528,81,16,Kayak,2024-11-09,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+529,19,11,Ski Boots,2025-05-05,4,The product arrived within the expected timeframe.,0.6194601058959961,Positive,quality,0.2405
+530,48,10,Golf Clubs,2025-11-24,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+531,65,3,Yoga Mat,2024-07-21,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+532,6,6,Tennis Racket,2023-05-30,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+533,92,6,Tennis Racket,2024-04-06,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+534,41,2,Fitness Tracker,2025-07-02,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+535,85,13,Swim Goggles,2023-03-25,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+536,33,19,Hockey Stick,2024-12-29,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+537,8,9,Baseball Glove,2023-03-11,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+538,29,16,Kayak,2025-11-12,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+539,74,17,Surfboard,2024-12-02,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+540,28,18,Volleyball,2025-12-09,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+541,73,20,Boxing Gloves,2025-08-08,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+542,49,5,Soccer Ball,2023-07-11,1,"Not    satisfied,  the  product  broke  after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+543,64,17,Surfboard,2023-10-31,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+544,65,6,Tennis Racket,2023-10-29,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+545,45,13,Swim Goggles,2024-06-11,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+546,33,1,Running Shoes,2024-11-14,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+547,28,11,Ski Boots,2024-05-28,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+548,40,12,Ice Skates,2023-01-11,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+549,73,15,Climbing Rope,2025-04-06,4,Five  stars  for  the  quick    delivery.,0.9993364214897156,Positive,support,0.2803
+550,51,12,Ice Skates,2024-10-07,3,Packaging was adequate and delivery was timely.,0.9997827410697936,Mixed Positive,packaging,0.3048
+551,45,2,Fitness Tracker,2025-04-17,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+552,68,1,Running Shoes,2023-07-28,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+553,60,20,Boxing Gloves,2025-04-26,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+554,18,1,Running Shoes,2024-08-16,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+555,69,18,Volleyball,2025-11-24,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+556,91,6,Tennis Racket,2025-01-04,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+557,55,10,Golf Clubs,2024-07-28,3,"Great  purchase,    very  satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+558,83,13,Swim Goggles,2025-02-11,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+559,46,12,Ice Skates,2024-05-16,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+560,24,6,Tennis Racket,2024-11-08,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+561,6,5,Soccer Ball,2025-02-27,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+562,41,5,Soccer Ball,2024-02-25,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+563,86,13,Swim Goggles,2025-02-27,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+564,9,12,Ice Skates,2025-10-13,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+565,60,20,Boxing Gloves,2024-06-30,1,"Terrible  customer  service,  would  not    buy  again.",-0.9995811581611632,Negative,support,0.3011
+566,89,10,Golf Clubs,2025-08-15,4,Five    stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+567,78,16,Kayak,2024-02-21,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+568,17,13,Swim Goggles,2024-08-04,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+569,58,9,Baseball Glove,2024-07-17,5,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+570,50,15,Climbing Rope,2025-04-29,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+571,2,8,Football Helmet,2024-10-15,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+572,37,16,Kayak,2025-04-23,4,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+573,57,8,Football Helmet,2024-04-27,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+574,72,9,Baseball Glove,2025-10-13,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+575,93,14,Cycling Helmet,2025-09-19,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+576,71,9,Baseball Glove,2025-10-04,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+577,65,9,Baseball Glove,2024-04-18,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+578,32,15,Climbing Rope,2023-08-01,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+579,24,8,Football Helmet,2024-01-16,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+580,48,1,Running Shoes,2025-04-15,3,"Average    experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+581,69,18,Volleyball,2024-03-19,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+582,65,9,Baseball Glove,2023-01-29,5,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+583,88,8,Football Helmet,2025-07-03,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+584,70,20,Boxing Gloves,2024-12-04,4,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+585,87,12,Ice Skates,2025-10-23,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+586,7,17,Surfboard,2023-04-11,2,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+587,31,17,Surfboard,2025-08-31,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+588,39,18,Volleyball,2025-09-03,3,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Mixed Positive,delivery,0.2728
+589,64,4,Dumbbells,2024-03-21,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+590,27,4,Dumbbells,2024-09-13,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+591,65,12,Ice Skates,2024-10-29,5,Five  stars    for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+592,100,1,Running Shoes,2025-01-18,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+593,62,8,Football Helmet,2025-06-12,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+594,14,4,Dumbbells,2025-10-01,2,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+595,46,5,Soccer Ball,2025-09-18,4,Exceeded    my  expectations!,0.9995620846748352,Positive,support,0.226
+596,48,15,Climbing Rope,2025-06-27,3,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+597,11,1,Running Shoes,2025-09-07,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+598,3,2,Fitness Tracker,2023-08-04,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+599,94,19,Hockey Stick,2025-08-01,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+600,65,3,Yoga Mat,2025-01-11,2,Not  worth    the  money.,-0.9998021721839904,Negative,pricing,0.2816
+601,25,11,Ski Boots,2025-07-31,5,Amazing    value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+602,56,8,Football Helmet,2023-02-08,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+603,88,4,Dumbbells,2024-07-02,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+604,87,2,Fitness Tracker,2023-06-10,3,"Average  experience,  nothing    special.",-0.9992826581001282,Mixed Negative,support,0.2637
+605,1,3,Yoga Mat,2023-06-17,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+606,48,8,Football Helmet,2023-10-14,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+607,25,14,Cycling Helmet,2025-07-07,3,"Great  purchase,  very  satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+608,7,9,Baseball Glove,2023-03-21,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+609,40,10,Golf Clubs,2025-10-23,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+610,69,3,Yoga Mat,2025-01-29,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+611,6,4,Dumbbells,2023-12-06,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+612,38,2,Fitness Tracker,2025-06-17,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+613,48,12,Ice Skates,2025-02-10,3,"The  product  is  okay,  but  the  instructions    were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+614,23,2,Fitness Tracker,2025-01-20,3,"I  love  this  product,  will  buy  again!",0.9998741149902344,Mixed Positive,pricing,0.2354
+615,98,1,Running Shoes,2025-01-08,5,"Excellent    product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+616,38,20,Boxing Gloves,2023-11-14,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+617,29,15,Climbing Rope,2025-12-22,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+618,45,7,Basketball,2024-08-21,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+619,68,14,Cycling Helmet,2023-12-06,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+620,100,1,Running Shoes,2024-10-22,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+621,70,14,Cycling Helmet,2025-05-13,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+622,30,4,Dumbbells,2025-12-22,4,The quality is satisfactory overall.,0.9998499155044556,Positive,quality,0.412
+623,5,1,Running Shoes,2025-06-15,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+624,82,14,Cycling Helmet,2023-11-28,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+625,32,10,Golf Clubs,2023-02-20,5,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+626,38,11,Ski Boots,2025-12-18,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+627,18,6,Tennis Racket,2023-06-26,5,Amazing  value  for    the  price.,0.9998892545700072,Positive,pricing,0.3689
+628,22,4,Dumbbells,2025-08-30,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+629,16,20,Boxing Gloves,2024-07-28,5,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+630,31,10,Golf Clubs,2024-08-14,4,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+631,73,12,Ice Skates,2024-10-30,4,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Positive,quality,0.3168
+632,40,20,Boxing Gloves,2023-02-24,3,"Average  experience,    nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+633,52,3,Yoga Mat,2023-12-26,2,The    product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+634,27,13,Swim Goggles,2024-02-25,4,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Positive,quality,0.3168
+635,85,16,Kayak,2023-02-22,3,"The  product  is  okay,  but  the  instructions  were    unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+636,37,13,Swim Goggles,2023-12-18,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+637,17,7,Basketball,2024-08-21,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+638,63,16,Kayak,2025-08-23,2,Very durable and performs well for daily use.,0.9998507499694824,Mixed Negative,quality,0.4388
+639,14,12,Ice Skates,2024-07-07,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+640,23,14,Cycling Helmet,2024-08-09,3,"The  product  is  okay,    but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+641,58,9,Baseball Glove,2024-01-05,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+642,53,17,Surfboard,2025-04-28,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+643,89,16,Kayak,2024-01-07,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+644,97,10,Golf Clubs,2023-11-25,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+645,23,20,Boxing Gloves,2023-11-02,5,Customer  support    was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+646,75,2,Fitness Tracker,2023-10-09,5,"I    love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+647,68,2,Fitness Tracker,2023-01-03,4,Customer  support  was    very  helpful.,0.9991816878318788,Positive,support,0.3455
+648,76,5,Soccer Ball,2023-03-19,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+649,8,17,Surfboard,2025-02-05,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+650,28,3,Yoga Mat,2024-11-08,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+651,38,9,Baseball Glove,2024-09-10,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+652,39,19,Hockey Stick,2025-05-06,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+653,66,16,Kayak,2025-01-14,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+654,46,8,Football Helmet,2023-01-01,1,The  color  was  different  from  what  was  shown.,0.982874631881714,Mixed Negative,support,0.226
+655,63,16,Kayak,2023-04-06,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+656,17,11,Ski Boots,2024-07-22,3,"Good  quality,    but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+657,35,11,Ski Boots,2025-10-18,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+658,3,18,Volleyball,2025-06-16,1,Not  worth  the    money.,-0.9998021721839904,Negative,pricing,0.2816
+659,29,20,Boxing Gloves,2023-03-16,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+660,62,5,Soccer Ball,2023-10-06,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+661,40,18,Volleyball,2025-09-20,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+662,15,5,Soccer Ball,2025-03-24,4,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+663,23,10,Golf Clubs,2025-05-26,5,"Excellent  product,  highly    recommend!",0.9998780488967896,Positive,quality,0.2978
+664,31,16,Kayak,2025-08-11,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+665,99,12,Ice Skates,2024-01-03,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+666,53,19,Hockey Stick,2024-05-25,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+667,80,14,Cycling Helmet,2024-01-08,4,The quality is satisfactory overall.,0.9998499155044556,Positive,quality,0.412
+668,55,4,Dumbbells,2024-04-25,5,"Excellent  product,    highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+669,19,19,Hockey Stick,2025-12-31,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+670,53,13,Swim Goggles,2024-03-31,5,The  build  quality  is    impressive.,0.999881386756897,Positive,quality,0.4293
+671,24,5,Soccer Ball,2023-03-28,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+672,95,14,Cycling Helmet,2025-02-15,5,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+673,74,12,Ice Skates,2025-10-16,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+674,29,1,Running Shoes,2023-08-30,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+675,24,9,Baseball Glove,2025-02-07,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+676,6,12,Ice Skates,2024-03-14,5,The  build  quality  is    impressive.,0.999881386756897,Positive,quality,0.4293
+677,6,17,Surfboard,2024-03-29,4,Five    stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+678,49,9,Baseball Glove,2025-05-19,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+679,10,8,Football Helmet,2025-09-29,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+680,60,20,Boxing Gloves,2025-06-12,4,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+681,48,16,Kayak,2024-03-21,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+682,80,11,Ski Boots,2023-01-05,1,"Not  satisfied,  the  product  broke  after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+683,22,10,Golf Clubs,2025-04-06,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+684,92,12,Ice Skates,2025-01-12,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+685,86,14,Cycling Helmet,2024-03-22,1,The  color  was  different  from  what  was  shown.,0.982874631881714,Mixed Negative,support,0.226
+686,31,17,Surfboard,2023-05-09,5,"I    love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+687,86,17,Surfboard,2023-07-16,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+688,32,12,Ice Skates,2025-07-07,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+689,34,16,Kayak,2025-04-23,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+690,61,19,Hockey Stick,2023-10-11,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+691,40,7,Basketball,2024-07-27,3,Five  stars  for  the  quick  delivery.,0.9993364214897156,Mixed Positive,support,0.2803
+692,64,10,Golf Clubs,2023-12-22,3,Not  worth  the    money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+693,58,10,Golf Clubs,2023-08-31,5,The  build  quality  is    impressive.,0.999881386756897,Positive,quality,0.4293
+694,27,13,Swim Goggles,2024-07-05,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+695,13,14,Cycling Helmet,2023-09-15,4,Customer  support    was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+696,48,11,Ski Boots,2023-10-07,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+697,13,7,Basketball,2024-09-21,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+698,4,18,Volleyball,2023-06-28,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+699,42,19,Hockey Stick,2023-01-30,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+700,14,2,Fitness Tracker,2023-11-23,4,"I    love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+701,68,4,Dumbbells,2023-01-02,5,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+702,92,3,Yoga Mat,2025-02-06,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+703,3,16,Kayak,2024-04-17,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+704,8,20,Boxing Gloves,2024-09-26,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+705,88,11,Ski Boots,2025-05-25,5,Exceeded    my  expectations!,0.9995620846748352,Positive,support,0.226
+706,75,5,Soccer Ball,2024-01-03,5,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+707,96,16,Kayak,2024-08-08,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+708,70,17,Surfboard,2024-01-20,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+709,1,16,Kayak,2023-02-25,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+710,88,7,Basketball,2025-09-26,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+711,39,12,Ice Skates,2023-12-07,5,"Excellent    product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+712,53,17,Surfboard,2024-09-17,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+713,55,12,Ice Skates,2024-12-12,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+714,76,2,Fitness Tracker,2023-01-11,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+715,13,2,Fitness Tracker,2024-03-26,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+716,64,2,Fitness Tracker,2023-08-12,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+717,82,1,Running Shoes,2025-03-07,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+718,30,20,Boxing Gloves,2023-05-19,1,"Terrible  customer  service,  would  not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+719,24,4,Dumbbells,2025-12-03,2,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+720,41,4,Dumbbells,2025-08-05,5,Shipping  was  fast  and  the  item  was    well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+721,4,15,Climbing Rope,2024-09-25,2,Not    worth  the  money.,-0.9998021721839904,Negative,pricing,0.2816
+722,68,16,Kayak,2025-10-14,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+723,84,7,Basketball,2023-11-22,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+724,31,3,Yoga Mat,2024-01-21,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+725,13,6,Tennis Racket,2025-09-30,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+726,33,20,Boxing Gloves,2024-10-16,5,Customer  support  was    very  helpful.,0.9991816878318788,Positive,support,0.3455
+727,39,1,Running Shoes,2025-09-24,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+728,30,1,Running Shoes,2024-08-23,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+729,99,9,Baseball Glove,2023-03-17,1,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+730,67,6,Tennis Racket,2025-01-15,4,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+731,4,7,Basketball,2023-07-13,5,The  build    quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+732,56,20,Boxing Gloves,2025-03-02,4,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+733,75,13,Swim Goggles,2024-11-07,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+734,63,2,Fitness Tracker,2024-03-10,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+735,22,15,Climbing Rope,2024-03-02,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+736,72,6,Tennis Racket,2023-10-17,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+737,45,15,Climbing Rope,2023-10-11,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+738,3,12,Ice Skates,2025-08-22,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+739,70,18,Volleyball,2023-07-05,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+740,33,5,Soccer Ball,2025-02-05,2,Very durable and performs well for daily use.,0.9998507499694824,Mixed Negative,quality,0.4388
+741,3,9,Baseball Glove,2025-05-24,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+742,84,7,Basketball,2025-03-03,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+743,89,3,Yoga Mat,2023-05-15,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+744,63,19,Hockey Stick,2023-03-31,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+745,85,12,Ice Skates,2024-05-17,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+746,24,13,Swim Goggles,2024-03-28,5,"I  love    this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+747,84,1,Running Shoes,2023-04-27,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+748,100,13,Swim Goggles,2025-09-15,3,"Great  purchase,    very  satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+749,64,13,Swim Goggles,2025-06-28,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+750,3,5,Soccer Ball,2024-06-20,4,The    quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+751,58,17,Surfboard,2025-07-11,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+752,7,12,Ice Skates,2024-10-11,1,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+753,94,4,Dumbbells,2023-01-29,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+754,55,11,Ski Boots,2025-07-11,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+755,27,15,Climbing Rope,2024-03-31,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+756,94,8,Football Helmet,2025-03-25,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+757,8,13,Swim Goggles,2023-09-27,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+758,53,1,Running Shoes,2024-05-23,2,"Average  experience,  nothing    special.",-0.9992826581001282,Negative,support,0.2637
+759,21,16,Kayak,2024-12-13,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+760,100,5,Soccer Ball,2025-12-18,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+761,49,16,Kayak,2025-03-17,3,Customer  support  was  very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+762,39,13,Swim Goggles,2025-05-31,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+763,54,16,Kayak,2023-08-16,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+764,84,11,Ski Boots,2024-07-08,1,"Terrible  customer  service,  would  not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+765,74,18,Volleyball,2024-12-11,1,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+766,83,7,Basketball,2025-07-31,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+767,48,11,Ski Boots,2023-10-09,5,Exceeded    my  expectations!,0.9995620846748352,Positive,support,0.226
+768,24,16,Kayak,2023-02-18,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+769,77,7,Basketball,2024-09-02,5,"Excellent  product,    highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+770,52,1,Running Shoes,2025-02-02,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+771,32,12,Ice Skates,2025-03-21,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+772,62,4,Dumbbells,2023-09-13,4,Five    stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+773,17,14,Cycling Helmet,2024-06-21,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+774,46,6,Tennis Racket,2025-12-10,5,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+775,13,16,Kayak,2025-08-31,4,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+776,17,13,Swim Goggles,2023-01-12,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+777,81,6,Tennis Racket,2024-02-14,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+778,97,7,Basketball,2025-06-11,5,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+779,66,17,Surfboard,2025-05-25,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+780,83,1,Running Shoes,2025-10-23,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+781,68,13,Swim Goggles,2024-06-06,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+782,25,3,Yoga Mat,2024-08-19,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+783,21,18,Volleyball,2024-11-30,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+784,22,16,Kayak,2024-12-09,2,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+785,9,10,Golf Clubs,2025-10-11,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+786,37,13,Swim Goggles,2025-07-29,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+787,59,5,Soccer Ball,2024-08-08,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+788,83,15,Climbing Rope,2025-05-16,3,Customer  support  was    very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+789,7,17,Surfboard,2023-04-08,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+790,73,9,Baseball Glove,2024-06-08,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+791,11,18,Volleyball,2023-06-27,3,"Average  experience,  nothing    special.",-0.9992826581001282,Mixed Negative,support,0.2637
+792,88,14,Cycling Helmet,2023-07-29,3,"The  product  is    okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+793,53,7,Basketball,2025-05-21,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+794,24,17,Surfboard,2024-12-03,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+795,4,14,Cycling Helmet,2024-12-16,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+796,27,17,Surfboard,2025-02-27,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+797,68,19,Hockey Stick,2025-02-22,5,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+798,95,13,Swim Goggles,2023-08-22,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+799,96,9,Baseball Glove,2025-07-17,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+800,74,8,Football Helmet,2024-05-23,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+801,36,10,Golf Clubs,2023-01-09,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+802,12,16,Kayak,2023-03-04,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+803,6,11,Ski Boots,2023-09-22,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+804,16,8,Football Helmet,2025-09-22,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+805,76,20,Boxing Gloves,2024-10-28,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+806,18,9,Baseball Glove,2023-08-28,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+807,68,8,Football Helmet,2025-03-06,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+808,49,6,Tennis Racket,2025-12-12,3,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+809,37,17,Surfboard,2023-08-20,2,Product  did  not  meet  my    expectations.,-0.9997606873512268,Negative,quality,0.2876
+810,56,2,Fitness Tracker,2025-06-24,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+811,10,2,Fitness Tracker,2024-01-28,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+812,80,20,Boxing Gloves,2025-04-19,4,"I  love  this  product,  will    buy  again!",0.9998741149902344,Positive,pricing,0.2354
+813,58,15,Climbing Rope,2024-03-28,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+814,93,3,Yoga Mat,2024-10-28,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+815,72,6,Tennis Racket,2025-11-19,1,I  had  a  bad  experience    with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+816,91,1,Running Shoes,2024-01-11,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+817,6,15,Climbing Rope,2024-11-17,3,Five  stars  for  the  quick  delivery.,0.9993364214897156,Mixed Positive,support,0.2803
+818,55,20,Boxing Gloves,2023-12-11,3,"Average  experience,  nothing    special.",-0.9992826581001282,Mixed Negative,support,0.2637
+819,20,15,Climbing Rope,2024-05-12,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+820,47,19,Hockey Stick,2023-04-10,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+821,98,12,Ice Skates,2025-10-19,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+822,47,15,Climbing Rope,2023-01-28,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+823,59,14,Cycling Helmet,2024-09-29,5,Five    stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+824,77,13,Swim Goggles,2024-07-30,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+825,21,18,Volleyball,2023-01-10,1,"Not  satisfied,  the  product  broke  after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+826,8,11,Ski Boots,2024-10-29,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+827,84,18,Volleyball,2025-04-05,5,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+828,53,20,Boxing Gloves,2025-02-28,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+829,31,9,Baseball Glove,2023-05-17,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+830,61,19,Hockey Stick,2025-07-23,2,"Average  experience,  nothing    special.",-0.9992826581001282,Negative,support,0.2637
+831,48,17,Surfboard,2025-08-30,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+832,44,17,Surfboard,2024-04-23,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+833,31,18,Volleyball,2023-08-29,5,Exceeded  my    expectations!,0.9995620846748352,Positive,support,0.226
+834,74,1,Running Shoes,2025-09-21,2,"Average    experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+835,12,12,Ice Skates,2024-05-07,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+836,52,9,Baseball Glove,2023-10-25,1,Product  did    not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+837,19,16,Kayak,2023-12-11,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+838,61,17,Surfboard,2024-04-21,5,Shipping  was  fast  and  the    item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+839,79,7,Basketball,2024-08-02,4,Shipping    was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+840,44,10,Golf Clubs,2023-01-30,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+841,88,10,Golf Clubs,2023-08-25,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+842,70,17,Surfboard,2024-10-03,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+843,51,13,Swim Goggles,2025-08-28,2,Not  worth    the  money.,-0.9998021721839904,Negative,pricing,0.2816
+844,66,10,Golf Clubs,2023-07-01,4,"I  love  this  product,  will    buy  again!",0.9998741149902344,Positive,pricing,0.2354
+845,89,7,Basketball,2023-07-26,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+846,17,17,Surfboard,2024-04-22,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+847,6,5,Soccer Ball,2025-05-29,1,"Terrible  customer  service,  would  not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+848,6,18,Volleyball,2023-03-08,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+849,78,10,Golf Clubs,2025-02-01,2,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Negative,quality,0.336
+850,89,12,Ice Skates,2023-07-24,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+851,31,12,Ice Skates,2025-11-29,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+852,37,11,Ski Boots,2024-12-03,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+853,42,11,Ski Boots,2023-05-19,3,"The  product  is  okay,  but    the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+854,7,5,Soccer Ball,2025-06-09,5,Shipping  was  fast    and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+855,2,7,Basketball,2024-01-08,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+856,23,6,Tennis Racket,2023-01-03,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+857,11,15,Climbing Rope,2023-10-17,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+858,92,17,Surfboard,2025-05-05,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+859,6,19,Hockey Stick,2024-06-25,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+860,27,5,Soccer Ball,2025-01-26,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+861,70,8,Football Helmet,2024-04-18,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+862,4,10,Golf Clubs,2025-01-17,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+863,93,5,Soccer Ball,2025-07-05,3,"The  product  is  okay,  but  the    instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+864,85,1,Running Shoes,2025-01-16,4,Customer  support  was  very    helpful.,0.9991816878318788,Positive,support,0.3455
+865,17,13,Swim Goggles,2025-03-03,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+866,36,16,Kayak,2025-03-03,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+867,7,8,Football Helmet,2023-07-20,1,"Terrible  customer  service,  would  not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+868,10,14,Cycling Helmet,2024-11-01,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+869,18,3,Yoga Mat,2023-02-02,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+870,19,2,Fitness Tracker,2023-03-19,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+871,3,5,Soccer Ball,2024-03-20,5,The    build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+872,96,3,Yoga Mat,2025-04-14,2,Product  did    not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+873,82,15,Climbing Rope,2025-06-21,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+874,78,8,Football Helmet,2025-11-09,4,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+875,44,20,Boxing Gloves,2023-11-27,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+876,10,19,Hockey Stick,2024-06-19,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+877,78,14,Cycling Helmet,2024-08-28,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+878,24,10,Golf Clubs,2025-05-26,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+879,2,6,Tennis Racket,2023-09-16,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+880,29,13,Swim Goggles,2023-07-31,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+881,63,2,Fitness Tracker,2023-04-25,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+882,6,7,Basketball,2024-10-08,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+883,4,9,Baseball Glove,2023-07-08,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+884,24,2,Fitness Tracker,2023-11-08,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+885,58,6,Tennis Racket,2024-09-10,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+886,95,15,Climbing Rope,2025-02-14,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+887,38,10,Golf Clubs,2025-03-17,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+888,83,4,Dumbbells,2023-01-05,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+889,45,15,Climbing Rope,2024-10-02,4,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+890,59,5,Soccer Ball,2024-07-25,1,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+891,48,9,Baseball Glove,2025-02-26,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+892,27,4,Dumbbells,2025-08-01,4,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+893,51,3,Yoga Mat,2024-02-06,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+894,82,4,Dumbbells,2023-06-23,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+895,38,4,Dumbbells,2024-10-28,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+896,40,20,Boxing Gloves,2025-10-17,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+897,48,5,Soccer Ball,2025-01-05,2,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+898,76,15,Climbing Rope,2023-09-18,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+899,89,9,Baseball Glove,2024-01-02,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+900,10,5,Soccer Ball,2025-04-04,3,"The  product  is  okay,  but  the  instructions  were    unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+901,16,19,Hockey Stick,2023-02-15,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+902,75,13,Swim Goggles,2025-07-02,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+903,69,5,Soccer Ball,2025-10-05,4,Customer  support    was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+904,68,9,Baseball Glove,2025-12-24,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+905,82,4,Dumbbells,2024-05-05,2,Not    worth  the  money.,-0.9998021721839904,Negative,pricing,0.2816
+906,92,17,Surfboard,2025-02-27,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+907,67,3,Yoga Mat,2023-10-21,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+908,37,9,Baseball Glove,2025-03-28,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+909,59,7,Basketball,2023-09-08,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+910,92,5,Soccer Ball,2023-06-14,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+911,93,6,Tennis Racket,2024-06-27,1,Product  did    not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+912,100,2,Fitness Tracker,2025-10-27,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+913,64,5,Soccer Ball,2024-09-06,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+914,81,19,Hockey Stick,2023-03-04,5,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+915,55,5,Soccer Ball,2024-12-21,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+916,40,5,Soccer Ball,2024-10-05,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+917,44,20,Boxing Gloves,2025-05-17,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+918,50,4,Dumbbells,2024-09-09,3,"The  product    is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+919,37,18,Volleyball,2025-02-14,1,"Terrible  customer  service,  would  not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+920,28,1,Running Shoes,2025-04-13,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+921,93,11,Ski Boots,2023-06-26,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+922,92,4,Dumbbells,2025-07-22,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+923,3,20,Boxing Gloves,2024-02-07,5,"Excellent  product,  highly    recommend!",0.9998780488967896,Positive,quality,0.2978
+924,62,19,Hockey Stick,2024-12-20,3,Customer  support    was  very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+925,2,20,Boxing Gloves,2025-02-10,1,"Terrible  customer  service,  would    not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+926,86,12,Ice Skates,2023-06-17,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+927,21,4,Dumbbells,2024-08-08,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+928,10,9,Baseball Glove,2024-05-25,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+929,47,5,Soccer Ball,2024-10-09,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+930,83,19,Hockey Stick,2024-08-05,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+931,73,8,Football Helmet,2023-09-27,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+932,11,20,Boxing Gloves,2023-08-26,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+933,83,12,Ice Skates,2023-01-11,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+934,44,3,Yoga Mat,2023-04-26,5,"I  love  this    product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+935,71,12,Ice Skates,2025-08-28,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+936,99,15,Climbing Rope,2023-09-23,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+937,96,9,Baseball Glove,2023-06-08,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+938,29,12,Ice Skates,2024-07-08,5,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+939,42,6,Tennis Racket,2024-08-09,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+940,15,12,Ice Skates,2025-09-12,4,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+941,13,9,Baseball Glove,2023-05-21,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+942,69,2,Fitness Tracker,2023-02-19,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+943,70,19,Hockey Stick,2023-04-15,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+944,72,2,Fitness Tracker,2024-08-11,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+945,46,5,Soccer Ball,2025-12-05,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+946,96,7,Basketball,2023-08-28,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+947,86,18,Volleyball,2025-11-02,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+948,29,10,Golf Clubs,2025-01-22,5,Shipping  was  fast    and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+949,55,15,Climbing Rope,2025-08-25,1,Product  did    not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+950,96,9,Baseball Glove,2024-02-09,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+951,80,15,Climbing Rope,2024-07-11,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+952,46,15,Climbing Rope,2025-01-14,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+953,29,3,Yoga Mat,2025-11-22,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+954,26,8,Football Helmet,2025-03-13,5,Shipping    was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+955,53,12,Ice Skates,2023-03-15,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+956,33,2,Fitness Tracker,2024-10-26,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+957,37,15,Climbing Rope,2024-02-26,4,"I  love  this  product,  will  buy    again!",0.9998741149902344,Positive,pricing,0.2354
+958,45,1,Running Shoes,2023-08-17,1,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+959,85,9,Baseball Glove,2025-01-01,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+960,81,2,Fitness Tracker,2024-03-23,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+961,74,20,Boxing Gloves,2024-07-10,5,"I  love  this    product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+962,95,18,Volleyball,2024-10-16,4,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Positive,quality,0.3168
+963,36,6,Tennis Racket,2023-11-17,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+964,60,18,Volleyball,2024-06-11,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+965,25,7,Basketball,2024-12-15,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+966,21,6,Tennis Racket,2025-09-30,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+967,94,12,Ice Skates,2024-04-22,5,The  build    quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+968,46,14,Cycling Helmet,2024-08-07,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+969,48,4,Dumbbells,2023-04-09,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+970,43,2,Fitness Tracker,2024-05-26,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+971,5,5,Soccer Ball,2024-12-17,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+972,18,19,Hockey Stick,2024-08-01,5,Exceeded    my  expectations!,0.9995620846748352,Positive,support,0.226
+973,4,4,Dumbbells,2024-01-23,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+974,13,6,Tennis Racket,2024-03-01,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+975,84,15,Climbing Rope,2023-06-12,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+976,80,7,Basketball,2023-03-30,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+977,44,10,Golf Clubs,2023-06-28,3,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+978,46,13,Swim Goggles,2025-07-18,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+979,14,4,Dumbbells,2024-03-16,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+980,92,14,Cycling Helmet,2023-07-14,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+981,48,10,Golf Clubs,2023-05-13,3,"The  product  is    okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+982,63,7,Basketball,2023-11-28,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+983,31,19,Hockey Stick,2024-05-28,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+984,88,11,Ski Boots,2023-08-23,3,"The  product  is  okay,  but  the    instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+985,78,11,Ski Boots,2025-10-23,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+986,20,7,Basketball,2025-11-30,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+987,37,16,Kayak,2024-09-15,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+988,14,14,Cycling Helmet,2025-04-06,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+989,93,19,Hockey Stick,2023-06-11,4,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+990,7,4,Dumbbells,2023-05-05,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+991,97,18,Volleyball,2025-03-10,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+992,77,2,Fitness Tracker,2023-08-16,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+993,27,12,Ice Skates,2025-01-10,2,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Negative,quality,0.336
+994,62,5,Soccer Ball,2025-11-27,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+995,17,8,Football Helmet,2025-07-29,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+996,85,10,Golf Clubs,2025-01-05,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+997,82,1,Running Shoes,2023-10-03,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+998,34,11,Ski Boots,2025-05-18,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+999,37,8,Football Helmet,2023-05-28,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1000,86,12,Ice Skates,2025-11-17,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+1001,72,13,Swim Goggles,2023-12-06,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1002,25,15,Climbing Rope,2025-05-15,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1003,14,16,Kayak,2025-03-31,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1004,53,10,Golf Clubs,2024-01-14,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1005,82,17,Surfboard,2024-10-23,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+1006,87,2,Fitness Tracker,2023-06-14,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1007,49,9,Baseball Glove,2024-02-15,5,Amazing  value    for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+1008,60,13,Swim Goggles,2025-09-05,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1009,31,3,Yoga Mat,2025-11-21,2,"The  product  is  okay,  but  the  instructions  were    unclear.",-0.9967684745788574,Negative,quality,0.2548
+1010,3,3,Yoga Mat,2025-05-17,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+1011,80,19,Hockey Stick,2023-10-11,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1012,26,3,Yoga Mat,2025-02-25,2,Not    worth  the  money.,-0.9998021721839904,Negative,pricing,0.2816
+1013,32,8,Football Helmet,2025-07-12,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1014,81,20,Boxing Gloves,2023-04-16,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1015,25,2,Fitness Tracker,2023-03-05,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+1016,30,16,Kayak,2025-08-27,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1017,84,13,Swim Goggles,2025-05-26,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1018,44,20,Boxing Gloves,2024-07-29,2,Not  worth    the  money.,-0.9998021721839904,Negative,pricing,0.2816
+1019,25,12,Ice Skates,2023-07-12,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1020,100,5,Soccer Ball,2025-09-02,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1021,49,20,Boxing Gloves,2024-03-16,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1022,71,5,Soccer Ball,2025-01-23,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1023,77,18,Volleyball,2023-10-19,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1024,85,19,Hockey Stick,2025-11-05,3,Packaging was adequate and delivery was timely.,0.9997827410697936,Mixed Positive,packaging,0.3048
+1025,31,16,Kayak,2025-02-17,3,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+1026,90,12,Ice Skates,2023-11-10,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+1027,22,14,Cycling Helmet,2025-07-20,3,Not    worth  the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1028,66,3,Yoga Mat,2023-04-17,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+1029,66,6,Tennis Racket,2025-11-14,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1030,46,16,Kayak,2024-10-02,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1031,28,1,Running Shoes,2024-05-22,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1032,46,17,Surfboard,2025-06-03,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1033,74,11,Ski Boots,2023-02-16,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+1034,34,19,Hockey Stick,2024-02-04,1,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+1035,77,9,Baseball Glove,2023-11-25,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1036,24,7,Basketball,2025-08-16,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+1037,66,16,Kayak,2024-05-20,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1038,22,13,Swim Goggles,2024-05-28,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1039,15,1,Running Shoes,2024-11-25,3,Five  stars  for  the  quick  delivery.,0.9993364214897156,Mixed Positive,support,0.2803
+1040,100,19,Hockey Stick,2024-03-02,5,The  build  quality  is    impressive.,0.999881386756897,Positive,quality,0.4293
+1041,19,18,Volleyball,2024-04-14,4,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1042,68,1,Running Shoes,2023-10-06,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+1043,29,12,Ice Skates,2025-01-06,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1044,79,1,Running Shoes,2024-03-22,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1045,33,19,Hockey Stick,2024-12-14,3,"The  product  is    okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1046,45,8,Football Helmet,2025-05-17,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1047,6,5,Soccer Ball,2025-10-09,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1048,25,17,Surfboard,2025-11-18,3,Customer  support  was  very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+1049,50,2,Fitness Tracker,2023-05-26,5,Five  stars  for    the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1050,83,8,Football Helmet,2024-06-14,5,"Excellent  product,  highly    recommend!",0.9998780488967896,Positive,quality,0.2978
+1051,63,5,Soccer Ball,2024-03-16,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1052,55,5,Soccer Ball,2023-08-14,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1053,6,16,Kayak,2024-02-29,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1054,82,17,Surfboard,2024-03-27,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1055,17,7,Basketball,2024-10-18,3,"Average  experience,    nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1056,68,17,Surfboard,2023-09-14,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+1057,49,17,Surfboard,2024-09-13,3,Packaging was adequate and delivery was timely.,0.9997827410697936,Mixed Positive,packaging,0.3048
+1058,32,16,Kayak,2024-11-16,3,"Great  purchase,  very  satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+1059,67,2,Fitness Tracker,2023-12-23,2,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Negative,quality,0.4026
+1060,15,10,Golf Clubs,2023-05-05,3,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+1061,64,7,Basketball,2023-12-17,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1062,93,13,Swim Goggles,2023-11-21,5,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1063,5,6,Tennis Racket,2025-09-21,4,"Good  quality,    but  could  be  cheaper.",0.955940008163452,Positive,quality,0.3168
+1064,32,16,Kayak,2024-09-02,3,"The    product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1065,33,9,Baseball Glove,2023-03-21,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1066,81,6,Tennis Racket,2025-08-29,4,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+1067,50,7,Basketball,2024-05-09,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+1068,61,15,Climbing Rope,2025-08-16,2,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+1069,84,9,Baseball Glove,2025-03-05,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+1070,23,20,Boxing Gloves,2025-08-16,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+1071,23,7,Basketball,2024-09-16,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1072,51,2,Fitness Tracker,2023-02-15,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+1073,30,10,Golf Clubs,2023-09-22,4,Very durable and performs well for daily use.,0.9998507499694824,Positive,quality,0.4388
+1074,21,13,Swim Goggles,2023-04-07,4,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Positive,quality,0.336
+1075,52,9,Baseball Glove,2025-07-25,5,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+1076,22,9,Baseball Glove,2024-10-29,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1077,95,14,Cycling Helmet,2025-04-18,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+1078,8,2,Fitness Tracker,2023-12-15,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1079,73,16,Kayak,2025-06-19,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+1080,86,16,Kayak,2025-05-27,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1081,91,5,Soccer Ball,2023-07-31,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1082,87,13,Swim Goggles,2025-02-09,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1083,40,6,Tennis Racket,2024-04-02,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1084,99,12,Ice Skates,2023-10-29,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+1085,46,6,Tennis Racket,2025-07-02,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1086,47,11,Ski Boots,2024-04-07,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1087,35,10,Golf Clubs,2023-07-27,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1088,55,13,Swim Goggles,2025-05-05,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1089,54,12,Ice Skates,2024-04-12,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1090,3,14,Cycling Helmet,2023-01-09,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+1091,72,2,Fitness Tracker,2024-01-28,2,The  product    arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1092,82,5,Soccer Ball,2023-02-16,4,Five  stars    for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1093,25,8,Football Helmet,2025-10-24,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1094,48,11,Ski Boots,2023-07-04,2,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+1095,31,15,Climbing Rope,2024-09-23,4,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+1096,82,13,Swim Goggles,2023-11-17,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1097,47,12,Ice Skates,2023-10-15,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+1098,62,15,Climbing Rope,2023-04-02,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1099,90,12,Ice Skates,2024-03-17,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1100,88,14,Cycling Helmet,2025-08-13,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1101,58,13,Swim Goggles,2025-01-09,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1102,35,12,Ice Skates,2024-02-01,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1103,39,5,Soccer Ball,2023-05-12,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1104,39,6,Tennis Racket,2023-08-06,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+1105,20,16,Kayak,2023-03-19,3,"Good    quality,  but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+1106,37,5,Soccer Ball,2025-01-29,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1107,51,14,Cycling Helmet,2024-03-27,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1108,50,3,Yoga Mat,2023-05-03,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+1109,22,18,Volleyball,2023-06-09,5,"Excellent  product,    highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1110,38,8,Football Helmet,2024-04-26,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+1111,91,16,Kayak,2024-01-25,3,"Good  quality,    but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+1112,40,1,Running Shoes,2023-06-07,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1113,28,3,Yoga Mat,2024-11-23,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1114,56,15,Climbing Rope,2025-06-14,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+1115,82,4,Dumbbells,2023-10-12,3,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+1116,52,5,Soccer Ball,2025-05-22,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1117,74,11,Ski Boots,2023-09-12,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1118,50,16,Kayak,2023-05-15,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1119,99,4,Dumbbells,2024-01-19,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1120,4,17,Surfboard,2024-09-30,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+1121,23,20,Boxing Gloves,2023-06-25,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1122,78,19,Hockey Stick,2023-12-03,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1123,68,20,Boxing Gloves,2024-06-02,3,"The  product  is    okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1124,6,9,Baseball Glove,2025-10-22,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1125,100,12,Ice Skates,2025-07-20,2,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Negative,quality,0.336
+1126,10,19,Hockey Stick,2025-03-19,2,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+1127,82,15,Climbing Rope,2024-01-06,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1128,77,6,Tennis Racket,2023-02-11,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1129,80,10,Golf Clubs,2024-11-06,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1130,88,13,Swim Goggles,2025-12-30,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1131,97,2,Fitness Tracker,2025-06-02,5,The  build    quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1132,68,9,Baseball Glove,2023-12-22,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1133,46,19,Hockey Stick,2023-09-12,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1134,29,8,Football Helmet,2024-06-16,5,The    build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1135,77,12,Ice Skates,2024-10-26,1,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1136,62,8,Football Helmet,2025-03-02,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1137,73,5,Soccer Ball,2025-01-19,3,Five  stars  for  the  quick  delivery.,0.9993364214897156,Mixed Positive,support,0.2803
+1138,81,4,Dumbbells,2024-12-23,3,The  quality  is  top-notch.,0.9998470544815063,Mixed Positive,quality,0.3895
+1139,18,5,Soccer Ball,2024-02-28,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1140,28,12,Ice Skates,2023-03-07,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+1141,24,17,Surfboard,2023-04-01,5,Customer    support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1142,4,2,Fitness Tracker,2024-04-24,4,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+1143,75,18,Volleyball,2025-08-09,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1144,24,8,Football Helmet,2024-01-29,5,The  build  quality    is  impressive.,0.999881386756897,Positive,quality,0.4293
+1145,61,8,Football Helmet,2024-02-25,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1146,88,15,Climbing Rope,2024-02-10,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1147,79,5,Soccer Ball,2025-05-09,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1148,94,2,Fitness Tracker,2024-10-11,4,"Good  quality,  but    could  be  cheaper.",0.955940008163452,Positive,quality,0.3168
+1149,67,13,Swim Goggles,2023-12-24,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+1150,90,3,Yoga Mat,2024-02-19,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1151,46,15,Climbing Rope,2025-01-19,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1152,23,14,Cycling Helmet,2025-11-05,3,Customer    support  was  very  helpful.,0.9991816878318788,Mixed Positive,support,0.3455
+1153,53,10,Golf Clubs,2023-06-17,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1154,9,19,Hockey Stick,2023-07-09,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+1155,1,12,Ice Skates,2025-01-09,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1156,79,18,Volleyball,2024-06-16,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+1157,13,12,Ice Skates,2025-07-16,1,The  product  stopped  working  after  a  month.,-0.999716579914093,Negative,quality,0.3017
+1158,99,20,Boxing Gloves,2024-07-29,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1159,59,9,Baseball Glove,2025-01-29,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1160,97,7,Basketball,2025-12-26,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1161,10,19,Hockey Stick,2023-01-01,5,Shipping  was  fast  and  the    item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1162,55,10,Golf Clubs,2024-06-08,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1163,15,11,Ski Boots,2023-10-04,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+1164,69,3,Yoga Mat,2023-01-04,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+1165,20,12,Ice Skates,2024-02-06,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1166,63,15,Climbing Rope,2024-11-10,5,The  build  quality    is  impressive.,0.999881386756897,Positive,quality,0.4293
+1167,50,19,Hockey Stick,2024-08-21,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1168,93,16,Kayak,2025-09-21,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1169,97,19,Hockey Stick,2025-06-24,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1170,78,4,Dumbbells,2023-12-19,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1171,49,4,Dumbbells,2024-01-12,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+1172,33,15,Climbing Rope,2025-04-03,5,The    build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1173,76,3,Yoga Mat,2025-08-09,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1174,69,3,Yoga Mat,2025-08-24,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+1175,78,6,Tennis Racket,2025-07-04,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1176,74,15,Climbing Rope,2025-05-27,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1177,45,10,Golf Clubs,2023-12-28,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1178,43,6,Tennis Racket,2024-09-08,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+1179,84,7,Basketball,2025-07-31,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+1180,64,18,Volleyball,2025-06-19,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1181,28,8,Football Helmet,2025-02-25,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+1182,70,15,Climbing Rope,2023-08-21,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1183,91,4,Dumbbells,2023-02-06,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1184,5,18,Volleyball,2023-12-25,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1185,5,12,Ice Skates,2025-10-01,5,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1186,80,11,Ski Boots,2025-10-15,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1187,66,9,Baseball Glove,2023-06-11,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1188,17,2,Fitness Tracker,2023-04-05,5,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1189,32,20,Boxing Gloves,2023-12-28,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+1190,16,4,Dumbbells,2024-08-19,1,The    product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1191,60,19,Hockey Stick,2023-08-27,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1192,80,19,Hockey Stick,2024-05-21,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1193,7,2,Fitness Tracker,2025-06-13,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1194,11,13,Swim Goggles,2023-03-01,3,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Mixed Negative,quality,0.2989
+1195,89,2,Fitness Tracker,2023-11-19,5,Exceeded    my  expectations!,0.9995620846748352,Positive,support,0.226
+1196,57,16,Kayak,2024-06-07,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1197,70,15,Climbing Rope,2024-10-30,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1198,92,1,Running Shoes,2024-06-25,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1199,71,7,Basketball,2024-09-16,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1200,89,17,Surfboard,2024-04-04,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1201,14,11,Ski Boots,2023-08-04,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1202,28,17,Surfboard,2023-04-28,3,Not  worth  the    money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1203,2,19,Hockey Stick,2025-07-20,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1204,19,18,Volleyball,2024-11-06,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1205,73,17,Surfboard,2025-12-04,5,The material feels standard and usable.,0.9990397095680236,Positive,quality,0.3445
+1206,50,12,Ice Skates,2023-07-06,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1207,90,18,Volleyball,2025-06-27,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1208,16,15,Climbing Rope,2024-07-11,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1209,53,10,Golf Clubs,2024-04-03,5,Five  stars  for    the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1210,67,8,Football Helmet,2024-10-24,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+1211,30,18,Volleyball,2023-10-04,5,Customer  support    was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1212,82,19,Hockey Stick,2024-10-11,2,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+1213,14,9,Baseball Glove,2023-12-23,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1214,100,10,Golf Clubs,2025-08-27,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1215,68,7,Basketball,2025-03-28,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1216,53,11,Ski Boots,2023-04-14,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+1217,81,18,Volleyball,2024-01-14,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1218,8,9,Baseball Glove,2025-11-09,5,Shipping  was    fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1219,49,7,Basketball,2025-05-28,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1220,25,8,Football Helmet,2023-01-26,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1221,42,17,Surfboard,2023-08-31,4,"Good  quality,  but  could    be  cheaper.",0.955940008163452,Positive,quality,0.3168
+1222,57,6,Tennis Racket,2025-05-23,3,"I  love  this  product,  will  buy    again!",0.9998741149902344,Mixed Positive,pricing,0.2354
+1223,18,16,Kayak,2025-11-12,3,"Great  purchase,  very  satisfied.",0.9998626708984376,Mixed Positive,support,0.2698
+1224,82,14,Cycling Helmet,2025-11-30,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1225,93,8,Football Helmet,2024-08-08,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1226,75,5,Soccer Ball,2024-08-17,5,"I  love  this  product,    will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1227,30,14,Cycling Helmet,2025-01-20,5,"Great  purchase,  very    satisfied.",0.9998626708984376,Positive,support,0.2698
+1228,57,1,Running Shoes,2023-11-30,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1229,31,17,Surfboard,2025-06-01,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1230,55,18,Volleyball,2025-04-27,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1231,81,7,Basketball,2024-09-02,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1232,7,17,Surfboard,2024-09-18,5,The product reached without any damage.,0.9913528561592102,Positive,packaging,0.2376
+1233,73,5,Soccer Ball,2024-03-13,3,"The  product  is    okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1234,37,8,Football Helmet,2024-02-21,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+1235,87,1,Running Shoes,2023-05-24,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1236,60,3,Yoga Mat,2023-02-07,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1237,94,17,Surfboard,2024-10-20,1,"Not  satisfied,  the  product  broke  after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+1238,15,9,Baseball Glove,2025-06-13,4,Customer    support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1239,49,15,Climbing Rope,2024-02-07,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1240,66,5,Soccer Ball,2025-02-28,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+1241,62,17,Surfboard,2024-03-11,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+1242,22,19,Hockey Stick,2025-02-08,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1243,92,10,Golf Clubs,2023-11-08,5,"Great    purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1244,8,7,Basketball,2024-01-20,5,"I  love  this  product,  will    buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1245,60,5,Soccer Ball,2025-12-19,3,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Positive,quality,0.507
+1246,53,1,Running Shoes,2024-08-04,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1247,79,6,Tennis Racket,2024-08-08,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+1248,72,2,Fitness Tracker,2025-12-19,4,Shipping  was  fast  and  the  item  was    well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1249,72,5,Soccer Ball,2025-01-23,3,"Average    experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1250,11,10,Golf Clubs,2025-10-23,1,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+1251,20,2,Fitness Tracker,2024-06-10,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+1252,87,8,Football Helmet,2024-12-10,5,Exceeded    my  expectations!,0.9995620846748352,Positive,support,0.226
+1253,68,3,Yoga Mat,2024-06-30,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1254,45,4,Dumbbells,2024-02-16,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1255,42,8,Football Helmet,2025-12-15,5,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1256,80,4,Dumbbells,2025-08-12,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+1257,93,10,Golf Clubs,2023-02-05,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1258,80,1,Running Shoes,2023-11-13,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+1259,66,15,Climbing Rope,2023-06-13,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1260,47,6,Tennis Racket,2025-09-02,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1261,12,18,Volleyball,2023-08-08,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1262,46,17,Surfboard,2024-08-26,2,Disappointed  with    the  performance.,-0.9997925162315368,Negative,support,0.248
+1263,48,9,Baseball Glove,2023-09-20,3,"Average    experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1264,72,7,Basketball,2023-05-07,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1265,81,20,Boxing Gloves,2023-04-29,4,Customer  support    was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1266,65,14,Cycling Helmet,2025-07-01,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1267,85,4,Dumbbells,2024-07-11,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1268,60,6,Tennis Racket,2023-10-06,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1269,39,13,Swim Goggles,2024-02-09,4,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+1270,72,16,Kayak,2025-07-11,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1271,64,10,Golf Clubs,2024-04-28,4,The material feels standard and usable.,0.9990397095680236,Positive,quality,0.3445
+1272,82,14,Cycling Helmet,2025-12-24,4,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1273,74,10,Golf Clubs,2024-02-19,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1274,24,1,Running Shoes,2025-08-14,1,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+1275,52,2,Fitness Tracker,2023-06-06,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1276,52,10,Golf Clubs,2024-11-05,2,"Good  quality,  but    could  be  cheaper.",0.955940008163452,Mixed Negative,quality,0.3168
+1277,20,11,Ski Boots,2023-09-28,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1278,25,17,Surfboard,2023-06-22,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1279,54,8,Football Helmet,2025-09-13,3,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Negative,support,0.2442
+1280,88,19,Hockey Stick,2023-01-18,3,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Mixed Negative,quality,0.4239
+1281,58,12,Ice Skates,2023-09-24,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1282,7,19,Hockey Stick,2023-04-24,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1283,67,2,Fitness Tracker,2024-09-24,3,"The    product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1284,2,12,Ice Skates,2025-10-04,1,"Average product, works fine but feels slightly overpriced.",-0.9987505674362184,Negative,quality,0.4239
+1285,81,12,Ice Skates,2024-07-15,4,"Good  quality,  but  could  be    cheaper.",0.955940008163452,Positive,quality,0.3168
+1286,89,19,Hockey Stick,2025-03-12,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1287,69,17,Surfboard,2024-10-04,2,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1288,77,8,Football Helmet,2025-06-09,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1289,52,7,Basketball,2023-09-30,3,Very durable and performs well for daily use.,0.9998507499694824,Mixed Positive,quality,0.4388
+1290,30,6,Tennis Racket,2024-04-01,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1291,90,2,Fitness Tracker,2024-05-20,4,Shipping  was  fast  and  the  item    was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1292,16,5,Soccer Ball,2024-03-15,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1293,23,2,Fitness Tracker,2024-11-07,5,Exceeded  my  expectations!,0.9995620846748352,Positive,support,0.226
+1294,86,11,Ski Boots,2023-06-11,4,Packaging was adequate and delivery was timely.,0.9997827410697936,Positive,packaging,0.3048
+1295,61,8,Football Helmet,2025-09-16,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1296,60,9,Baseball Glove,2025-10-26,4,"Good  quality,    but  could  be  cheaper.",0.955940008163452,Positive,quality,0.3168
+1297,87,5,Soccer Ball,2024-08-14,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1298,82,1,Running Shoes,2024-08-13,4,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1299,44,18,Volleyball,2025-07-02,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1300,6,11,Ski Boots,2024-04-14,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1301,79,13,Swim Goggles,2025-05-28,4,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1302,20,11,Ski Boots,2023-11-29,3,"Average product, quality is fine but price feels slightly high.",0.9017502069473268,Mixed Positive,quality,0.336
+1303,99,3,Yoga Mat,2024-03-22,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1304,77,15,Climbing Rope,2024-05-09,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1305,24,4,Dumbbells,2025-01-26,1,The    product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1306,89,1,Running Shoes,2023-09-03,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1307,36,13,Swim Goggles,2024-05-16,3,"Average    experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1308,46,5,Soccer Ball,2025-02-03,4,"Great  purchase,    very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1309,53,8,Football Helmet,2024-10-12,4,"I  love  this  product,    will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1310,96,17,Surfboard,2025-11-19,3,"Good    quality,  but  could  be  cheaper.",0.955940008163452,Mixed Positive,quality,0.3168
+1311,71,13,Swim Goggles,2023-01-29,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1312,11,18,Volleyball,2023-05-16,4,"Average quality, delivery was slightly delayed.",-0.998961329460144,Mixed Positive,support,0.2442
+1313,2,2,Fitness Tracker,2025-06-30,5,The  build  quality    is  impressive.,0.999881386756897,Positive,quality,0.4293
+1314,63,2,Fitness Tracker,2025-03-17,5,Amazing  value  for  the  price.,0.9998892545700072,Positive,pricing,0.3689
+1315,85,14,Cycling Helmet,2023-05-28,4,"I    love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1316,40,20,Boxing Gloves,2025-05-24,2,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Negative,quality,0.2548
+1317,24,8,Football Helmet,2025-11-08,1,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1318,28,1,Running Shoes,2024-02-13,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1319,84,6,Tennis Racket,2024-07-20,1,Product  did  not  meet  my    expectations.,-0.9997606873512268,Negative,quality,0.2876
+1320,74,10,Golf Clubs,2024-11-26,1,I  had  a  bad  experience  with  this  product.,-0.9998112320899964,Negative,quality,0.2421
+1321,32,3,Yoga Mat,2025-02-25,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1322,70,16,Kayak,2024-04-15,1,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1323,61,17,Surfboard,2025-10-27,1,Product  did    not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1324,36,10,Golf Clubs,2025-12-27,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1325,66,12,Ice Skates,2024-08-07,3,"I  love  this  product,  will  buy  again!",0.9998741149902344,Mixed Positive,pricing,0.2354
+1326,69,4,Dumbbells,2024-06-09,5,"Great  purchase,  very  satisfied.",0.9998626708984376,Positive,support,0.2698
+1327,37,9,Baseball Glove,2025-05-20,2,"Average  experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+1328,97,11,Ski Boots,2025-12-23,4,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1329,45,19,Hockey Stick,2024-01-03,2,"Build quality is okay, however durability could definitely be better.",0.9826349020004272,Mixed Negative,quality,0.507
+1330,24,12,Ice Skates,2025-05-31,2,"It performs the basic function, but I expected better finishing and comfort.",-0.9803825616836548,Negative,quality,0.2989
+1331,88,5,Soccer Ball,2025-06-02,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1332,72,4,Dumbbells,2024-06-15,5,Amazing  value  for  the    price.,0.9998892545700072,Positive,pricing,0.3689
+1333,6,3,Yoga Mat,2023-12-06,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1334,39,11,Ski Boots,2025-04-03,4,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1335,43,15,Climbing Rope,2025-03-06,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1336,95,9,Baseball Glove,2023-11-27,1,"Not  satisfied,  the    product  broke  after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+1337,89,4,Dumbbells,2023-10-09,3,"Average  experience,  nothing  special.",-0.9992826581001282,Mixed Negative,support,0.2637
+1338,44,13,Swim Goggles,2025-02-01,2,Disappointed  with  the  performance.,-0.9997925162315368,Negative,support,0.248
+1339,76,19,Hockey Stick,2024-11-01,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1340,62,7,Basketball,2025-07-10,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1341,64,7,Basketball,2023-06-21,2,"Average  experience,  nothing    special.",-0.9992826581001282,Negative,support,0.2637
+1342,91,1,Running Shoes,2025-06-03,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1343,39,4,Dumbbells,2025-04-10,5,The  build  quality  is  impressive.,0.999881386756897,Positive,quality,0.4293
+1344,31,20,Boxing Gloves,2025-05-16,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1345,55,18,Volleyball,2023-10-14,5,"Excellent  product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1346,47,6,Tennis Racket,2024-10-14,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1347,21,11,Ski Boots,2025-07-16,4,Shipping  was  fast  and  the  item  was  well-packaged.,0.9998056292533876,Positive,delivery,0.2728
+1348,45,19,Hockey Stick,2024-02-14,5,"I  love  this  product,  will  buy  again!",0.9998741149902344,Positive,pricing,0.2354
+1349,22,10,Golf Clubs,2025-04-11,4,Five  stars  for  the  quick  delivery.,0.9993364214897156,Positive,support,0.2803
+1350,69,9,Baseball Glove,2024-02-01,3,"The  product  is  okay,  but  the  instructions  were  unclear.",-0.9967684745788574,Mixed Negative,quality,0.2548
+1351,30,20,Boxing Gloves,2023-07-23,1,"Not  satisfied,  the  product  broke    after  a  week.",-0.9994804263114928,Negative,delivery,0.2272
+1352,50,14,Cycling Helmet,2025-06-25,5,The  quality  is    top-notch.,0.9998470544815063,Positive,quality,0.3895
+1353,34,5,Soccer Ball,2024-06-30,5,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1354,53,8,Football Helmet,2024-05-08,5,"Excellent    product,  highly  recommend!",0.9998780488967896,Positive,quality,0.2978
+1355,9,20,Boxing Gloves,2025-05-29,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1356,14,15,Climbing Rope,2025-04-18,4,The  quality  is  top-notch.,0.9998470544815063,Positive,quality,0.3895
+1357,23,17,Surfboard,2024-01-03,1,"Terrible    customer  service,  would  not  buy  again.",-0.9995811581611632,Negative,support,0.3011
+1358,90,10,Golf Clubs,2024-01-16,3,Not  worth    the  money.,-0.9998021721839904,Mixed Negative,pricing,0.2816
+1359,28,4,Dumbbells,2023-05-25,3,"Usable for beginners, though the overall quality does not justify the price.",0.9775550365447998,Mixed Positive,quality,0.4026
+1360,58,12,Ice Skates,2023-11-13,2,"Average    experience,  nothing  special.",-0.9992826581001282,Negative,support,0.2637
+1361,96,15,Climbing Rope,2023-03-07,5,Customer  support  was  very  helpful.,0.9991816878318788,Positive,support,0.3455
+1362,99,2,Fitness Tracker,2025-12-03,1,Product  did  not  meet  my  expectations.,-0.9997606873512268,Negative,quality,0.2876
+1363,16,4,Dumbbells,2024-07-16,2,The  product  arrived  late.,-0.998403251171112,Negative,delivery,0.2442
+1364,12,21,Badminton Racket,2024-04-05,5,Excellent badminton racket with strong frame and perfect balance.,0.999869704246521,Positive,quality,0.2521
+1365,17,21,Badminton Racket,2024-04-12,4,"Lightweight and comfortable grip, very good for practice.",0.999502420425415,Positive,quality,0.4043
+1366,19,21,Badminton Racket,2024-04-18,5,"High quality racket, improves smash power.",0.9998090863227844,Positive,quality,0.3118
+1367,25,21,Badminton Racket,2024-05-01,3,Average quality but good for beginners.,0.9984806180000304,Mixed Positive,quality,0.4462
+1368,36,21,Badminton Racket,2024-05-10,4,Good value for money and durable material.,0.9998276233673096,Positive,pricing,0.2987
+1369,1,22,Skipping Rope (Adjustable),2024-01-05,5,"Excellent quality rope, very durable and smooth rotation.",0.999843955039978,Positive,quality,0.2977
+1371,2,22,Skipping Rope (Adjustable),2025-01-12,4,"Good for daily workouts, though handles feel slightly light.",0.9991804957389832,Positive,quality,0.2946
+1375,3,22,Skipping Rope (Adjustable),2024-01-20,3,Works as expected for regular skipping sessions.,-0.9920182824134828,Mixed Negative,quality,0.2822
+1380,4,22,Skipping Rope (Adjustable),2025-02-02,2,Usable rope but tangles occasionally.,-0.9776950478553772,Negative,quality,0.2341
+1384,5,22,Skipping Rope (Adjustable),2024-02-10,1,"Poor build quality, broke within a week.",-0.9996386766433716,Negative,quality,0.4214
+1391,6,22,Skipping Rope (Adjustable),2023-02-18,5,Perfect for cardio and very easy to adjust.,0.9994269609451294,Positive,quality,0.2315
+1397,7,22,Skipping Rope (Adjustable),2024-03-01,4,"Lightweight and convenient, but grip could improve.",-0.5343100428581238,Mixed Positive,quality,0.2869
+1392,8,22,Skipping Rope (Adjustable),2025-03-10,3,"Average product, nothing special.",-0.9995293617248536,Mixed Negative,pricing,0.2428
+1370,9,23,Tennis Balls (Pack of 3),2024-01-07,5,Great bounce and long-lasting pressure.,0.9998180270195008,Positive,support,0.2585
+1377,1,23,Tennis Balls (Pack of 3),2024-01-25,3,Decent quality for casual play.,0.9998499155044556,Mixed Positive,quality,0.2512
+1383,2,23,Tennis Balls (Pack of 3),2024-02-05,2,"Initially good, but durability is limited.",-0.9425598382949828,Negative,quality,0.5221
+1385,3,23,Tennis Balls (Pack of 3),2025-02-15,1,Lost bounce after one session.,-0.9997078776359558,Negative,quality,0.2813
+1390,4,23,Tennis Balls (Pack of 3),2024-02-25,5,Excellent control and consistent bounce.,0.9998602867126464,Positive,quality,0.3193
+1396,5,23,Tennis Balls (Pack of 3),2023-03-05,4,"Good quality balls, slightly overpriced.",0.8138607144355774,Positive,quality,0.3085
+1393,6,23,Tennis Balls (Pack of 3),2024-03-15,3,Average performance overall.,0.987193524837494,Mixed Positive,quality,0.4309
+1372,17,24,Swimming Kickboard,2025-01-08,5,Very sturdy and provides excellent flotation support.,0.9996955394744872,Positive,quality,0.3183
+1376,18,24,Swimming Kickboard,2024-01-18,4,"Good grip, but slightly smaller than expected.",0.997879147529602,Positive,quality,0.3194
+1379,19,24,Swimming Kickboard,2023-01-28,3,"Basic kickboard, works fine for beginners.",0.999515414237976,Mixed Positive,quality,0.3486
+1382,20,24,Swimming Kickboard,2025-02-08,2,Material feels average and could be stronger.,-0.979557454586029,Negative,quality,0.2861
+1386,21,24,Swimming Kickboard,2024-02-18,1,Very weak material and cracked quickly.,-0.9996993541717528,Negative,packaging,0.2491
+1389,22,24,Swimming Kickboard,2023-03-01,5,Perfect for swim training sessions.,0.9997534155845642,Positive,quality,0.2665
+1399,23,24,Swimming Kickboard,2024-03-10,4,"Comfortable to hold, decent quality.",0.9998733997344972,Positive,packaging,0.2802
+1395,24,24,Swimming Kickboard,2025-03-20,3,Standard product with average durability.,0.7614744305610657,Mixed Positive,quality,0.4008
+1374,33,25,Skating Helmet,2025-01-06,5,Excellent protection and very comfortable.,0.9998762607574464,Positive,packaging,0.2597
+1378,34,25,Skating Helmet,2023-01-16,4,Provides good safety but ventilation is average.,0.7737410068511963,Positive,support,0.2366
+1381,35,25,Skating Helmet,2024-01-26,3,Standard helmet for basic use.,-0.7098245024681091,Mixed Negative,quality,0.3058
+1387,36,25,Skating Helmet,2023-02-06,2,"Fits okay, but strap quality feels weak.",-0.997775375843048,Negative,quality,0.287
+1398,37,25,Skating Helmet,2024-02-16,1,Poor build quality and unsafe feel.,-0.9997932314872742,Negative,quality,0.4375
+1388,38,25,Skating Helmet,2025-03-01,5,Very secure and lightweight design.,0.9997968077659608,Positive,quality,0.3508
+1394,39,25,Skating Helmet,2024-03-12,4,"Good comfort, slightly tight fit.",0.9998663663864136,Positive,packaging,0.2894
+1400,40,25,Skating Helmet,2023-03-22,3,Average safety features.,-0.9443836808204652,Mixed Negative,quality,0.2886
+1373,12,10,Golf Clubs,2023-01-15,4,"Good for club matches, but lose pressure slightly fast.",-0.9668974876403807,Mixed Positive,quality,0.297

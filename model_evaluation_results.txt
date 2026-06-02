@@ -1,0 +1,20 @@
+=========== MODEL EVALUATION RESULTS ===========
+
+Accuracy  : 0.83
+Precision : 0.84
+Recall    : 0.83
+F1 Score  : 0.83
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+    delivery       0.75      0.80      0.77        15
+   packaging       0.90      0.64      0.75        14
+     pricing       0.80      0.86      0.83        14
+     quality       1.00      0.88      0.94        17
+     support       0.76      0.94      0.84        17
+
+    accuracy                           0.83        77
+   macro avg       0.84      0.82      0.83        77
+weighted avg       0.84      0.83      0.83        77
