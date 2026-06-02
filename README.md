@@ -139,7 +139,7 @@ The **Overview Dashboard** provides a quick summary of overall business performa
 - 👀 Views, Clicks & Likes
 - 🛍️ Product-wise analysis
 
-<img src="overview_snapshot.png" width="100%">
+<img src="output_images/overview_snapshot.png" width="100%">
 
 ---
 
@@ -153,7 +153,7 @@ The **Conversion Details Dashboard** analyzes customer journey actions and produ
 - 📅 Monthly trends
 - 🛒 Journey tracking
 
-<img src="conversion_details_snapshot.png" width="100%">
+<img src="output_images/conversion_details_snapshot.png" width="100%">
 
 ---
 
@@ -167,7 +167,7 @@ The **Social Media Dashboard** tracks digital engagement and social interaction 
 - 🖱️ Click monitoring
 - 📊 Content performance
 
-<img src="s_m_details_snapshot.png" width="100%">
+<img src="output_images/s_m_details_snapshot.png" width="100%">
 
 ---
 
@@ -181,7 +181,7 @@ The **Customer Review Dashboard** analyzes customer ratings, sentiments, and rev
 - 📝 Customer reviews
 - 📈 Review trends
 
-<img src="customer_review_details_snapshot.png" width="100%">
+<img src="output_images/customer_review_details_snapshot.png" width="100%">
 
 ---
 
@@ -195,7 +195,7 @@ The **Issue Classification Dashboard** identifies and categorizes customer-repor
 - 📅 Issue trends
 - 🛠️ Product issue tracking
 
-<img src="issue_classification.png" width="100%">
+<img src="output_images/issue_classification.png" width="100%">
 
 ---
 
@@ -209,7 +209,7 @@ The **Product Recommendation Dashboard** provides AI-based product rankings and 
 - ⭐ Rating vs sentiment analysis
 - 📊 Recommendation categories
 
-<img src="product_recommendation_dashboard.png" width="100%">
+<img src="output_images/product_recommendation_dashboard.png" width="100%">
 
 ---
 
@@ -223,12 +223,7 @@ The **Business Recommendation Dashboard** helps identify high-risk products and 
 - 🧠 AI suggested actions
 - 📉 Negative review analysis
 
-<img src="business_recommendation.png" width="100%">
-
----
-
-
-
+<img src="output_images/business_recommendation.png" width="100%">
 
 ---
 
@@ -308,6 +303,15 @@ The system provides valuable analytical outputs including:
 # ⭐ Conclusion
 
 The **AI-Powered BI Tool for Customer Sentiment Analysis** helps businesses efficiently analyze large volumes of customer feedback. By combining **Machine Learning**, **Transformer-based Deep Learning models**, **NLP**, **SQL Analytics**, and **Business Intelligence Dashboards**, the system converts raw customer reviews into meaningful insights that support smarter and faster business decisions.
+
+---
+
+# 📄 Publication
+
+Our research paper titled **“AI Powered Business Intelligence Tool for Customer Sentiment Analysis”** has been accepted at the **6th International Conference on Intelligent Vision and Computing (ICIVC 2026)**.
+
+The paper will be published in the **SCOPUS-indexed Springer Book Series — Lecture Notes in Networks and Systems (LNNS)** after the conference presentation.
+
 
 ---
 
