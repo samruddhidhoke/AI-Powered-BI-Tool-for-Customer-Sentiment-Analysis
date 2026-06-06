@@ -1,11 +1,10 @@
-
 # 🚀 AI-Powered BI Tool for Customer Sentiment Analysis
 
 <div align="center">
 
 ### 🤖 Transforming Customer Feedback into Business Intelligence
 
-A smart AI-powered platform that analyzes customer reviews using **Natural Language Processing (NLP)**, **Machine Learning**, and **Transformer-based Deep Learning models** to generate meaningful business insights, sentiment analysis, product rankings, and interactive dashboard reports.
+An AI-powered Business Intelligence platform that combines **Natural Language Processing (NLP)**, **Machine Learning**, **Transformer-based Deep Learning (DistilBERT)**, **SQL Analytics**, and **Power BI Dashboards** to convert customer feedback into actionable business insights.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
@@ -21,70 +20,123 @@ A smart AI-powered platform that analyzes customer reviews using **Natural Langu
 
 # 📌 Project Overview
 
-Customer feedback plays a major role in improving products and services, but manually analyzing thousands of reviews is difficult and time-consuming.
+Customer feedback contains valuable information about product quality, customer satisfaction, and business performance. However, manually analyzing thousands of reviews is time-consuming and inefficient.
 
-This project provides an **AI-powered Business Intelligence solution** that automatically processes customer reviews and classifies them into:
+This project presents an AI-powered Business Intelligence platform that combines NLP, Transformer-based Deep Learning, SQL Analytics, and Power BI dashboards to automate customer sentiment analysis and generate actionable business insights.
 
-✅ Positive  
-❌ Negative  
-⚪ Neutral  
+The system processes customer reviews, identifies sentiments, classifies customer issues, calculates severity scores, ranks products, and visualizes results through interactive dashboards.
 
-Using **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**, the system generates valuable insights such as:
+### Key Outcomes
 
-- 📊 Sentiment Scores
-- 🏆 Product Rankings
-- ⚠️ Risk Categories
-- 📈 Severity Index
-- 📉 Trend Analysis
+- Automated sentiment classification
+- AI-powered issue detection
+- Product ranking system
+- Severity and risk analysis
+- Business recommendation engine
+- Interactive Power BI dashboards
 
-The project leverages a **fine-tuned DistilBERT transformer model** for customer issue classification and sentiment score generation, enabling more accurate and context-aware analysis of customer feedback.
+---
 
-The processed data is stored in a structured analytics layer and visualized through interactive dashboards for smarter and faster business decision-making.
+# 📄 Research Publication
+
+Our research paper titled:
+
+**"AI Powered Business Intelligence Tool for Customer Sentiment Analysis"**
+
+has been accepted at:
+
+**6th International Conference on Intelligent Vision and Computing (ICIVC 2026)**
+
+and will be published in the:
+
+**Springer Lecture Notes in Networks and Systems (LNNS) Series (SCOPUS Indexed).**
+
+---
+
+# 🎯 Project Objectives
+
+- Automate customer feedback analysis
+- Reduce manual review processing effort
+- Improve business intelligence reporting
+- Identify customer satisfaction trends
+- Generate actionable business insights
+- Apply Transformer-based AI models for advanced sentiment analysis
 
 ---
 
 # ✨ Key Features
 
 ## 🔍 Sentiment Analysis
-- Analyze customer reviews using NLP techniques
-- Detect positive, negative, and neutral sentiments
-- Transformer-based sentiment score generation using DistilBERT
 
-## 📊 Business Intelligence Insights
+- Analyze customer reviews using NLP techniques
+- Detect Positive, Negative, and Neutral sentiments
+- Generate sentiment scores using DistilBERT
+
+## 🤖 AI-Based Issue Classification
+
+- Identify customer concerns automatically
+- Categorize product issues
+- Generate severity-based classifications
+
+## 📊 Business Intelligence Analytics
+
 - Product AI Scores
 - Product Ranking System
-- Risk Category Analysis
 - Severity Index Calculation
-- AI-driven issue classification
+- Risk Category Detection
+- Trend Analysis
 
-## 🗄️ Analytics Storage
-- Structured SQL-based analytical storage
-- Optimized for reporting and dashboard queries
+## 🗄️ SQL Analytics Storage
+
+- Structured analytics storage
+- Optimized reporting layer
+- Dashboard-ready datasets
 
 ## 📈 Dashboard Visualization
-- Interactive Power BI dashboards
-- Real-time business insights and trends
 
-## ⚡ Decision Support
-- Helps organizations improve customer satisfaction
-- Supports data-driven strategic decisions
+- Interactive Power BI dashboards
+- KPI monitoring
+- Business insights visualization
 
 ---
 
 # 🛠️ Technologies Used
 
-<div align="center">
-
 | Category | Technologies |
 |----------|--------------|
-| **Programming** | Python |
-| **AI & ML** | Machine Learning, Deep Learning, NLP |
-| **Transformer Models** | DistilBERT |
-| **Database** | SQL Server / MySQL |
-| **Visualization** | Power BI |
-| **Libraries** | Pandas, NumPy, Scikit-learn, NLTK, TextBlob, Hugging Face Transformers |
+| Programming | Python |
+| AI & ML | Machine Learning, Deep Learning |
+| NLP | NLTK, TextBlob |
+| Transformer Models | DistilBERT |
+| Database | SQL Server / MySQL |
+| Visualization | Power BI |
+| Libraries | Pandas, NumPy, Scikit-learn, Hugging Face Transformers |
 
-</div>
+---
+
+# 📊 Dataset & Analytics Pipeline
+
+```text
+Customer Reviews
+        ↓
+Data Cleaning & Preprocessing
+        ↓
+NLP Feature Engineering
+        ↓
+Sentiment Analysis
+        ↓
+DistilBERT Issue Classification
+        ↓
+Severity Score Generation
+        ↓
+SQL Analytics Storage
+        ↓
+Power BI Dashboard Reporting
+        ↓
+Business Recommendations
+```
+
+This pipeline transforms unstructured customer feedback into structured business intelligence.
 
 ---
 
@@ -104,40 +156,82 @@ AI Analytics Engine
 SQL Analytics Storage
         ↓
 Power BI Dashboard Visualization
-````
+```
 
 ---
 
-# 📊 Workflow
+# 🤖 AI Model
 
-```text
-1️⃣ Collect customer reviews and feedback
+The project uses a fine-tuned DistilBERT Transformer model for:
 
-2️⃣ Clean and preprocess the dataset
+- Customer Sentiment Analysis
+- Customer Issue Classification
+- Severity Prediction Support
+- Business Recommendation Generation
 
-3️⃣ Apply NLP and DistilBERT models for sentiment detection
+### Why DistilBERT?
 
-4️⃣ Perform AI-based issue classification
+- Lightweight Transformer Architecture
+- Faster Training and Inference
+- High NLP Accuracy
+- Efficient for Large Review Datasets
 
-5️⃣ Generate analytical insights and business metrics
+---
 
-6️⃣ Store processed analytics in SQL storage
+# 📈 Fine-Tuned Issue Classification Model Performance
 
-7️⃣ Visualize insights using Power BI dashboards
-```
+The following results represent the performance of the **Fine-Tuned DistilBERT Issue Classification Model** used for customer issue detection and categorization.
 
+This evaluation does **not represent the performance of the entire BI platform**, dashboards, SQL analytics layer, or sentiment analysis pipeline. It specifically measures the effectiveness of the issue classification model.
+
+### Evaluation Metrics
+
+| Metric | Score |
+|----------|----------|
+| Accuracy | 83% |
+| Precision | 84% |
+| Recall | 83% |
+| F1 Score | 83% |
+
+### Performance Visualization
+
+<img src="output_images/model_performance_comparison.png" width="80%">
+
+### Metric Interpretation
+
+#### Accuracy (83%)
+
+The model correctly classified approximately 83% of customer issues across all categories.
+
+#### Precision (84%)
+
+When the model predicted a particular issue category, it was correct 84% of the time, indicating reliable classifications with fewer false positives.
+
+#### Recall (83%)
+
+The model successfully identified 83% of actual issue instances present in the dataset.
+
+#### F1 Score (83%)
+
+The F1 Score demonstrates a balanced trade-off between Precision and Recall, indicating stable and consistent classification performance.
+
+### Evaluation Summary
+
+The fine-tuned DistilBERT model achieved balanced performance across all evaluation metrics, making it suitable for automated customer issue classification within the Business Intelligence platform.
+
+The model serves as the AI engine responsible for transforming unstructured customer complaints into structured issue categories that can be analyzed through SQL analytics and Power BI dashboards.
+---
 
 # 📊 Dashboard Modules
 
 ## 1️⃣ Overview Dashboard
 
-The **Overview Dashboard** provides a quick summary of overall business performance, customer engagement, ratings, and conversion trends.
+### Features
 
-### Features:
-- 📈 Conversion trends
-- ⭐ Average ratings
-- 👀 Views, Clicks & Likes
-- 🛍️ Product-wise analysis
+- Conversion Trends
+- Average Ratings
+- Views, Clicks & Likes
+- Product-wise Analysis
 
 <img src="output_images/overview_snapshot.png" width="100%">
 
@@ -145,13 +239,12 @@ The **Overview Dashboard** provides a quick summary of overall business performa
 
 ## 2️⃣ Conversion Details Dashboard
 
-The **Conversion Details Dashboard** analyzes customer journey actions and product conversion performance.
+### Features
 
-### Features:
-- 🔄 Conversion funnel
-- 📊 Product conversion rates
-- 📅 Monthly trends
-- 🛒 Journey tracking
+- Conversion Funnel
+- Product Conversion Rates
+- Monthly Trends
+- Customer Journey Tracking
 
 <img src="output_images/conversion_details_snapshot.png" width="100%">
 
@@ -159,27 +252,25 @@ The **Conversion Details Dashboard** analyzes customer journey actions and produ
 
 ## 3️⃣ Social Media Details Dashboard
 
-The **Social Media Dashboard** tracks digital engagement and social interaction metrics.
+### Features
 
-### Features:
-- 👍 Likes analysis
-- 👀 View tracking
-- 🖱️ Click monitoring
-- 📊 Content performance
+- Likes Analysis
+- View Tracking
+- Click Monitoring
+- Content Performance
 
 <img src="output_images/s_m_details_snapshot.png" width="100%">
 
 ---
 
-## 4️⃣ Customer Review Details Dashboard
+## 4️⃣ Customer Review Dashboard
 
-The **Customer Review Dashboard** analyzes customer ratings, sentiments, and review feedback.
+### Features
 
-### Features:
-- ⭐ Rating analysis
-- 😀 Sentiment distribution
-- 📝 Customer reviews
-- 📈 Review trends
+- Rating Analysis
+- Sentiment Distribution
+- Customer Reviews
+- Review Trends
 
 <img src="output_images/customer_review_details_snapshot.png" width="100%">
 
@@ -187,13 +278,12 @@ The **Customer Review Dashboard** analyzes customer ratings, sentiments, and rev
 
 ## 5️⃣ Issue Classification Dashboard
 
-The **Issue Classification Dashboard** identifies and categorizes customer-reported product issues.
+### Features
 
-### Features:
-- ⚠️ Issue distribution
-- 🔥 Severity analysis
-- 📅 Issue trends
-- 🛠️ Product issue tracking
+- Issue Distribution
+- Severity Analysis
+- Issue Trends
+- Product Issue Tracking
 
 <img src="output_images/issue_classification.png" width="100%">
 
@@ -201,13 +291,12 @@ The **Issue Classification Dashboard** identifies and categorizes customer-repor
 
 ## 6️⃣ Product Recommendation Dashboard
 
-The **Product Recommendation Dashboard** provides AI-based product rankings and recommendation insights.
+### Features
 
-### Features:
-- 🏆 Top recommended products
-- 📈 AI product scores
-- ⭐ Rating vs sentiment analysis
-- 📊 Recommendation categories
+- Product Ranking
+- AI Product Scores
+- Rating vs Sentiment Analysis
+- Recommendation Categories
 
 <img src="output_images/product_recommendation_dashboard.png" width="100%">
 
@@ -215,108 +304,127 @@ The **Product Recommendation Dashboard** provides AI-based product rankings and 
 
 ## 7️⃣ Business Recommendation Dashboard
 
-The **Business Recommendation Dashboard** helps identify high-risk products and improvement actions.
+### Features
 
-### Features:
-- 🚨 High-risk products
-- ⚠️ Severity index
-- 🧠 AI suggested actions
-- 📉 Negative review analysis
+- High-Risk Products
+- Severity Index
+- AI Suggested Actions
+- Negative Review Analysis
 
 <img src="output_images/business_recommendation.png" width="100%">
 
 ---
 
-
-
-
 # 📂 Project Structure
 
-```bash
-📦 AI-Powered-BI-Tool-for-Customer-Sentiment-Analysis
+```text
+AI-Powered-BI-Tool-for-Customer-Sentiment-Analysis/
 │
-├── 📁 Backup/
-├── 📁 CSAdb/
-├── 📁 csv files/
-├── 📁 dataset tables/
-├── 📁 ouput graphs and Diagrams/
-├── 📁 issue_classifier_model/
-├── 📁 py src/
-├── 📁 results/
-├── 📁 sql_queries/
-├── 📁 system_performance_graphs/
+├── Backup/
+├── CSAdb/
+├── csv files/
+├── dataset tables/
+├── output_images/
+├── py src/
+├── sql_queries/
+├── system_performance_graphs/
 │
-├── 📄 final_bi_dashboard.pbix
-├── 📄 model_evaluation_results.txt
-└── 📄 traintestsplit_summary.txt
-
+├── final_bi_dashboard.pbix
+├── model_evaluation_results.txt
+├── traintestsplit_summary.txt
+└── README.md
 ```
-
-
 
 ---
 
 # 📈 Output Insights
 
-The system provides valuable analytical outputs including:
+The system generates:
 
-* ✅ Sentiment Distribution
-* 🏆 Product AI Scores
-* 📊 Product Ranking
-* ⚠️ Severity Index
-* 🚨 Risk Categories
-* 🤖 AI-based Issue Classification
-* 📉 Trend Analysis
-* 📋 Dashboard Reports
+- Sentiment Distribution
+- Product AI Scores
+- Product Rankings
+- Severity Index
+- Risk Categories
+- Issue Classification Reports
+- Trend Analysis
+- Business Recommendations
 
 ---
 
-# 🎯 Project Objectives
+# 💼 Business Value
 
-* Automate customer feedback analysis
-* Reduce manual review processing effort
-* Improve business intelligence reporting
-* Identify customer satisfaction trends
-* Generate actionable business insights
-* Apply transformer-based AI models for advanced sentiment analysis
+This platform helps organizations:
+
+- Understand customer sentiment at scale
+- Identify recurring customer issues
+- Prioritize critical product problems
+- Improve customer satisfaction
+- Support data-driven business decisions
+- Reduce manual review analysis effort
+
+The system converts raw customer feedback into actionable business intelligence.
+
+---
+
+# 🎯 Skills Demonstrated
+
+## Data Analytics
+
+- Data Cleaning
+- Data Transformation
+- SQL Analytics
+- KPI Design
+- Dashboard Development
+- Business Reporting
+
+## Data Science
+
+- Natural Language Processing (NLP)
+- Sentiment Analysis
+- Transformer Models
+- DistilBERT
+- Classification
+- Model Evaluation
+
+## Business Intelligence
+
+- Power BI
+- SQL Reporting
+- Insight Generation
+- Recommendation Systems
+- Risk Analysis
 
 ---
 
 # 🔮 Future Enhancements
 
-* 🌐 Real-time sentiment monitoring
-* 📱 Social media integration
-* 🌍 Multi-language sentiment analysis
-* 🧠 Advanced Transformer & Deep Learning models
-* ☁️ Cloud deployment support
+- Real-Time Sentiment Monitoring
+- Social Media Integration
+- Multi-Language Sentiment Analysis
+- Advanced Transformer Models
+- Cloud Deployment
+- Automated Recommendation Engine
 
 ---
 
-# 👨‍💻 Team Members
+# 👨‍💻 Contributors
 
-* Samruddhi Dhoke
-* Mamta Mithbaonkar
+- Samruddhi Dhoke
+- Mamta Mithbaonkar
+
+Department of Computer Engineering
 
 ---
-
 
 # ⭐ Conclusion
 
-The **AI-Powered BI Tool for Customer Sentiment Analysis** helps businesses efficiently analyze large volumes of customer feedback. By combining **Machine Learning**, **Transformer-based Deep Learning models**, **NLP**, **SQL Analytics**, and **Business Intelligence Dashboards**, the system converts raw customer reviews into meaningful insights that support smarter and faster business decisions.
-
----
-
-# 📄 Publication
-
-Our research paper titled **“AI Powered Business Intelligence Tool for Customer Sentiment Analysis”** has been accepted at the **6th International Conference on Intelligent Vision and Computing (ICIVC 2026)**.
-
-The paper will be published in the **SCOPUS-indexed Springer Book Series — Lecture Notes in Networks and Systems (LNNS)** after the conference presentation.
-
+The AI-Powered BI Tool for Customer Sentiment Analysis combines NLP, Machine Learning, DistilBERT, SQL Analytics, and Power BI to transform raw customer reviews into meaningful business intelligence. The platform enables organizations to understand customer sentiment, detect product issues, prioritize risks, and make informed data-driven decisions.
 
 ---
 
 <div align="center">
 
-### 🌟 If you like this project, consider giving it a star ⭐
+### 🌟 If you found this project interesting, consider giving it a Star ⭐
 
 </div>
