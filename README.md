@@ -139,24 +139,35 @@ Business Recommendations
 This pipeline transforms unstructured customer feedback into structured business intelligence.
 
 ---
+# 🏗️ System Workflow Architecture
 
-# 🏗️ System Architecture
+The platform follows an end-to-end analytics pipeline that transforms raw customer feedback into business intelligence insights.
 
-```text
-Data Collection Layer
-        ↓
-Data Processing & Cleaning
-        ↓
-NLP & Sentiment Analysis Engine
-        ↓
-Fine-Tuned DistilBERT Model
-        ↓
-AI Analytics Engine
-        ↓
-SQL Analytics Storage
-        ↓
-Power BI Dashboard Visualization
-```
+<img src="system_workflow.png" width="90%">
+
+### Workflow Description
+
+1. **Data Sources**
+   - Customer reviews and feedback datasets are collected from structured data sources.
+
+2. **ETL Processing**
+   - Data is extracted, cleaned, transformed, and prepared for analysis.
+
+3. **AI Layer**
+   - NLP techniques and the fine-tuned DistilBERT model perform sentiment analysis and issue classification.
+
+4. **Business Intelligence Layer**
+   - Business metrics such as sentiment scores, severity index, product rankings, and risk categories are generated.
+
+5. **SQL Storage**
+   - Processed analytics are stored in a structured SQL database for efficient querying and reporting.
+
+6. **Visualization**
+   - Power BI dashboards visualize key insights, trends, KPIs, and recommendations.
+
+7. **Stakeholder Decision Support**
+   - Business users and stakeholders leverage the generated insights to support data-driven decision-making.
+
 
 ---
 
@@ -325,6 +336,15 @@ AI-Powered-BI-Tool-for-Customer-Sentiment-Analysis/
 ├── csv files/
 ├── dataset tables/
 ├── output_images/
+│   ├── overview_snapshot.png
+│   ├── conversion_details_snapshot.png
+│   ├── s_m_details_snapshot.png
+│   ├── customer_review_details_snapshot.png
+│   ├── issue_classification.png
+│   ├── product_recommendation_dashboard.png
+│   ├── business_recommendation.png
+│   └── model_performance_comparison.png
+│
 ├── py src/
 ├── sql_queries/
 ├── system_performance_graphs/
@@ -332,8 +352,28 @@ AI-Powered-BI-Tool-for-Customer-Sentiment-Analysis/
 ├── final_bi_dashboard.pbix
 ├── model_evaluation_results.txt
 ├── traintestsplit_summary.txt
+├── system_workflow.png
 └── README.md
 ```
+
+### Folder Description
+
+| Folder/File | Description |
+|------------|-------------|
+| Backup | Backup project files |
+| CSAdb | Database-related resources |
+| csv files | Raw and processed datasets |
+| dataset tables | Structured analytical tables |
+| output_images | Dashboard screenshots and model evaluation visuals |
+| py src | Python source code |
+| sql_queries | SQL scripts and analytical queries |
+| system_performance_graphs | Additional performance visualizations |
+| final_bi_dashboard.pbix | Power BI dashboard file |
+| model_evaluation_results.txt | Model evaluation metrics |
+| traintestsplit_summary.txt | Dataset split summary |
+| system_workflow.png | End-to-end system workflow architecture |
+| README.md | Project documentation |
+
 
 ---
 
@@ -408,14 +448,6 @@ The system converts raw customer feedback into actionable business intelligence.
 
 ---
 
-# 👨‍💻 Contributors
-
-- Samruddhi Dhoke
-- Mamta Mithbaonkar
-
-Department of Computer Engineering
-
----
 
 # ⭐ Conclusion
 
